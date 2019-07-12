@@ -1,0 +1,11 @@
+<div *ngIf="cRetainer; else elseBlock">
+  <p>{{ content.retainerName }}</p>
+  <ul>
+    <cdk-virtual-scroll-viewport itemSize="35">
+      <li *cdkVirtualFor="let item of content.retainerInventory;">
+        Item: {{ item.name }} Amount: {{ item.amount }}
+      </li>
+    </cdk-virtual-scroll-viewport>
+  </ul>
+</div>
+<ng-template #elseBlock><h2>Please selec a Retainer</h2></ng-template>

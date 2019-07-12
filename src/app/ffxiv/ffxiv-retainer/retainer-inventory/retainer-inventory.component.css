@@ -1,0 +1,7 @@
+cdk-virtual-scroll-viewport {
+  height: 55vh;
+}
+
+cdk-virtual-scroll-viewport li {
+  height: 35px;
+}

@@ -1,0 +1,640 @@
+[{
+    "retainerName": "Arcu",
+    "retainerInventory": [{
+      "name": "Undyed Hempen Cloth ",
+      "amount": 1,
+      "id": 5324
+    }, {
+      "name": "Undyed Hempen Cloth",
+      "amount": 7,
+      "id": 5324
+    }, {
+      "name": "Undyed Cotton Cloth ",
+      "amount": 1,
+      "id": 5325
+    }, {
+      "name": "Undyed Cotton Cloth",
+      "amount": 11,
+      "id": 5325
+    }, {
+      "name": "Undyed Velveteen",
+      "amount": 5,
+      "id": 5326
+    }, {
+      "name": "Undyed Linen",
+      "amount": 4,
+      "id": 5327
+    }, {
+      "name": "Undyed Felt ",
+      "amount": 3,
+      "id": 5329
+    }, {
+      "name": "Cotton Canvas ",
+      "amount": 1,
+      "id": 7025
+    }, {
+      "name": "Cotton Canvas",
+      "amount": 1,
+      "id": 7025
+    }, {
+      "name": "Linen Canvas",
+      "amount": 1,
+      "id": 7026
+    }, {
+      "name": "Taffeta Cloth",
+      "amount": 1,
+      "id": 7795
+    }, {
+      "name": "Mist Silk",
+      "amount": 1,
+      "id": 8026
+    }, {
+      "name": "Ramie Cloth ",
+      "amount": 1,
+      "id": 12590
+    }, {
+      "name": "Hallowed Ramie Cloth",
+      "amount": 4,
+      "id": 12591
+    }, {
+      "name": "Antique Rug",
+      "amount": 1,
+      "id": 14931
+    }, {
+      "name": "Odin's Mantle",
+      "amount": 5,
+      "id": 6164
+    }, {
+      "name": "Hempen Yarn ",
+      "amount": 11,
+      "id": 5333
+    }, {
+      "name": "Hempen Yarn",
+      "amount": 6,
+      "id": 5333
+    }, {
+      "name": "Cotton Yarn ",
+      "amount": 32,
+      "id": 5334
+    }, {
+      "name": "Cotton Yarn",
+      "amount": 113,
+      "id": 5334
+    }, {
+      "name": "Dew Thread",
+      "amount": 13,
+      "id": 5335
+    }, {
+      "name": "Woolen Yarn ",
+      "amount": 6,
+      "id": 5337
+    }, {
+      "name": "Woolen Yarn",
+      "amount": 45,
+      "id": 5337
+    }, {
+      "name": "Garlean Fiber ",
+      "amount": 3,
+      "id": 5340
+    }, {
+      "name": "Garlean Fiber",
+      "amount": 15,
+      "id": 5340
+    }, {
+      "name": "Ramie Thread ",
+      "amount": 5,
+      "id": 12595
+    }, {
+      "name": "Crawler Silk ",
+      "amount": 4,
+      "id": 12596
+    }, {
+      "name": "Crawler Silk",
+      "amount": 1,
+      "id": 12596
+    }, {
+      "name": "Invisible Silk ",
+      "amount": 15,
+      "id": 16729
+    }, {
+      "name": "Invisible Silk",
+      "amount": 10,
+      "id": 16729
+    }, {
+      "name": "Worsted Yarn",
+      "amount": 8,
+      "id": 19984
+    }, {
+      "name": "Moko Grass",
+      "amount": 19,
+      "id": 5341
+    }, {
+      "name": "Diremite Web ",
+      "amount": 12,
+      "id": 5345
+    }, {
+      "name": "Diremite Web",
+      "amount": 133,
+      "id": 5345
+    }, {
+      "name": "Flax",
+      "amount": 259,
+      "id": 5346
+    }, {
+      "name": "Apkallu Down ",
+      "amount": 11,
+      "id": 5348
+    }, {
+      "name": "Apkallu Down",
+      "amount": 31,
+      "id": 5348
+    }, {
+      "name": "Snurble Tufts",
+      "amount": 9,
+      "id": 5349
+    }, {
+      "name": "Silkworm Cocoon ",
+      "amount": 4,
+      "id": 5350
+    }, {
+      "name": "Bloodgrass",
+      "amount": 1,
+      "id": 7011
+    }, {
+      "name": "Maiden Grass",
+      "amount": 1,
+      "id": 7012
+    }, {
+      "name": "Cashmere Fleece",
+      "amount": 28,
+      "id": 7600
+    }, {
+      "name": "Jute",
+      "amount": 4,
+      "id": 7774
+    }, {
+      "name": "Rush Grass",
+      "amount": 3,
+      "id": 8021
+    }, {
+      "name": "Floss Silk",
+      "amount": 1,
+      "id": 8025
+    }, {
+      "name": "Rainbow Cotton Boll",
+      "amount": 14,
+      "id": 12597
+    }, {
+      "name": "Stalk of Ramie",
+      "amount": 1,
+      "id": 12598
+    }, {
+      "name": "Crawler Cocoon ",
+      "amount": 3,
+      "id": 12600
+    }, {
+      "name": "Crawler Cocoon",
+      "amount": 5,
+      "id": 12600
+    }, {
+      "name": "Eikon Fiber ",
+      "amount": 5,
+      "id": 14153
+    }, {
+      "name": "Kudzu Thread",
+      "amount": 5,
+      "id": 19981
+    }, {
+      "name": "Kudzu Vine",
+      "amount": 1,
+      "id": 19982
+    }, {
+      "name": "Halgai Mane",
+      "amount": 13,
+      "id": 19985
+    }, {
+      "name": "Manzasiri Hair ",
+      "amount": 6,
+      "id": 19986
+    }, {
+      "name": "Twincoon",
+      "amount": 13,
+      "id": 19989
+    }, {
+      "name": "Crow Feather ",
+      "amount": 16,
+      "id": 5352
+    }, {
+      "name": "Crow Feather",
+      "amount": 1,
+      "id": 5352
+    }, {
+      "name": "Dodo Feather ",
+      "amount": 2,
+      "id": 5355
+    }, {
+      "name": "Dodo Feather",
+      "amount": 19,
+      "id": 5355
+    }, {
+      "name": "Swan Feather",
+      "amount": 23,
+      "id": 5357
+    }, {
+      "name": "Eagle Feather",
+      "amount": 8,
+      "id": 5358
+    }, {
+      "name": "Wildfowl Feather ",
+      "amount": 10,
+      "id": 5360
+    }, {
+      "name": "Wildfowl Feather",
+      "amount": 11,
+      "id": 5360
+    }, {
+      "name": "Vortex Feather",
+      "amount": 1,
+      "id": 6161
+    }, {
+      "name": "Waterfowl Feather",
+      "amount": 1,
+      "id": 8024
+    }, {
+      "name": "Leather ",
+      "amount": 2,
+      "id": 5275
+    }, {
+      "name": "Leather",
+      "amount": 100,
+      "id": 5275
+    }, {
+      "name": "Hard Leather",
+      "amount": 66,
+      "id": 5276
+    }, {
+      "name": "Aldgoat Leather ",
+      "amount": 2,
+      "id": 5277
+    }, {
+      "name": "Toad Leather ",
+      "amount": 2,
+      "id": 5280
+    }, {
+      "name": "Toad Leather",
+      "amount": 1,
+      "id": 5280
+    }, {
+      "name": "Boar Leather",
+      "amount": 2,
+      "id": 5282
+    }, {
+      "name": "Raptor Leather ",
+      "amount": 6,
+      "id": 5285
+    }, {
+      "name": "Raptor Leather",
+      "amount": 1,
+      "id": 5285
+    }, {
+      "name": "Dhalmel Leather ",
+      "amount": 1,
+      "id": 12564
+    }, {
+      "name": "Dragon Leather ",
+      "amount": 1,
+      "id": 12565
+    }, {
+      "name": "Amphiptere Leather",
+      "amount": 3,
+      "id": 12566
+    }, {
+      "name": "Thavnairian Leather",
+      "amount": 2,
+      "id": 12645
+    }, {
+      "name": "Antique Leather",
+      "amount": 1,
+      "id": 14932
+    }, {
+      "name": "Gagana Leather",
+      "amount": 1,
+      "id": 19993
+    }, {
+      "name": "Gyuki Leather",
+      "amount": 2,
+      "id": 19994
+    }, {
+      "name": "Marid Leather",
+      "amount": 1,
+      "id": 19996
+    }, {
+      "name": "Leather Cointe Quaint",
+      "amount": 1,
+      "id": 23376
+    }, {
+      "name": "Animal Skin ",
+      "amount": 14,
+      "id": 5291
+    }, {
+      "name": "Animal Skin",
+      "amount": 201,
+      "id": 5291
+    }, {
+      "name": "Animal Hide ",
+      "amount": 23,
+      "id": 5292
+    }, {
+      "name": "Animal Hide",
+      "amount": 155,
+      "id": 5292
+    }, {
+      "name": "Aldgoat Skin ",
+      "amount": 10,
+      "id": 5296
+    }, {
+      "name": "Aldgoat Skin",
+      "amount": 43,
+      "id": 5296
+    }, {
+      "name": "Gigantoad Skin ",
+      "amount": 2,
+      "id": 5300
+    }, {
+      "name": "Gigantoad Skin",
+      "amount": 33,
+      "id": 5300
+    }, {
+      "name": "Boar Hide ",
+      "amount": 3,
+      "id": 5303
+    }, {
+      "name": "Boar Hide",
+      "amount": 38,
+      "id": 5303
+    }, {
+      "name": "Peiste Skin ",
+      "amount": 4,
+      "id": 5306
+    }, {
+      "name": "Peiste Skin",
+      "amount": 73,
+      "id": 5306
+    }, {
+      "name": "Karakul Skin ",
+      "amount": 1,
+      "id": 5308
+    }, {
+      "name": "Karakul Skin",
+      "amount": 21,
+      "id": 5308
+    }, {
+      "name": "Raptor Skin ",
+      "amount": 15,
+      "id": 5310
+    }, {
+      "name": "Raptor Skin",
+      "amount": 80,
+      "id": 5310
+    }, {
+      "name": "Uraeus Skin",
+      "amount": 7,
+      "id": 5314
+    }, {
+      "name": "Hippogryph Skin ",
+      "amount": 46,
+      "id": 5316
+    }, {
+      "name": "Hippogryph Skin",
+      "amount": 80,
+      "id": 5316
+    }, {
+      "name": "Coeurl Skin ",
+      "amount": 10,
+      "id": 5317
+    }, {
+      "name": "Coeurl Skin",
+      "amount": 78,
+      "id": 5317
+    }, {
+      "name": "Saurian Skin",
+      "amount": 31,
+      "id": 7599
+    }, {
+      "name": "Archaeornis Skin",
+      "amount": 16,
+      "id": 12568
+    }, {
+      "name": "Wyvern Skin ",
+      "amount": 3,
+      "id": 12569
+    }, {
+      "name": "Wyvern Skin",
+      "amount": 11,
+      "id": 12569
+    }, {
+      "name": "Dhalmel Hide",
+      "amount": 1,
+      "id": 12570
+    }, {
+      "name": "Dragon Skin ",
+      "amount": 2,
+      "id": 12571
+    }, {
+      "name": "Dragon Skin",
+      "amount": 24,
+      "id": 12571
+    }, {
+      "name": "Amphiptere Skin",
+      "amount": 1,
+      "id": 12572
+    }, {
+      "name": "Griffin Hide",
+      "amount": 3,
+      "id": 12573
+    }, {
+      "name": "Bearskin ",
+      "amount": 1,
+      "id": 12574
+    }, {
+      "name": "Hemicyon Hide ",
+      "amount": 5,
+      "id": 16730
+    }, {
+      "name": "Gagana Skin ",
+      "amount": 2,
+      "id": 19999
+    }, {
+      "name": "Gagana Skin",
+      "amount": 3,
+      "id": 19999
+    }, {
+      "name": "Gyuki Hide ",
+      "amount": 9,
+      "id": 20000
+    }, {
+      "name": "Gyuki Hide",
+      "amount": 8,
+      "id": 20000
+    }, {
+      "name": "Tiger Skin ",
+      "amount": 1,
+      "id": 20001
+    }, {
+      "name": "Tiger Skin",
+      "amount": 10,
+      "id": 20001
+    }, {
+      "name": "Marid Hide",
+      "amount": 5,
+      "id": 20002
+    }, {
+      "name": "Gazelle Hide",
+      "amount": 9,
+      "id": 20003
+    }, {
+      "name": "True Griffin Hide",
+      "amount": 9,
+      "id": 20004
+    }, {
+      "name": "Chinchilla Hide",
+      "amount": 2,
+      "id": 7042
+    }, {
+      "name": "Animal Sinew",
+      "amount": 1,
+      "id": 5318
+    }, {
+      "name": "Beast Sinew",
+      "amount": 57,
+      "id": 5319
+    }, {
+      "name": "Diremite Sinew ",
+      "amount": 1,
+      "id": 5320
+    }, {
+      "name": "Diremite Sinew",
+      "amount": 85,
+      "id": 5320
+    }, {
+      "name": "Hippogryph Sinew ",
+      "amount": 11,
+      "id": 5321
+    }, {
+      "name": "Hippogryph Sinew",
+      "amount": 114,
+      "id": 5321
+    }, {
+      "name": "Raptor Sinew",
+      "amount": 4,
+      "id": 5322
+    }, {
+      "name": "Dodore Wing ",
+      "amount": 14,
+      "id": 5313
+    }, {
+      "name": "Dodore Wing",
+      "amount": 5,
+      "id": 5313
+    }, {
+      "name": "Granular Clay",
+      "amount": 1,
+      "id": 12968
+    }, {
+      "name": "Bloody Cesti Covers",
+      "amount": 1,
+      "id": 5567
+    }, {
+      "name": "Blue Pigment",
+      "amount": 1,
+      "id": 5814
+    }, {
+      "name": "Grey Pigment",
+      "amount": 1,
+      "id": 5817
+    }, {
+      "name": "Heavens' Eye Materia V",
+      "amount": 1,
+      "id": 5668
+    }, {
+      "name": "Quicktongue Materia VI",
+      "amount": 1,
+      "id": 18029
+    }, {
+      "name": "Gatherer's Guerdon Materia V",
+      "amount": 1,
+      "id": 5688
+    }, {
+      "name": "Gatherer's Grasp Materia V",
+      "amount": 1,
+      "id": 5698
+    }, {
+      "name": "Craftsman's Competence Materia V",
+      "amount": 1,
+      "id": 5703
+    }, {
+      "name": "Craftsman's Cunning Materia V",
+      "amount": 1,
+      "id": 5708
+    }, {
+      "name": "Tallow Candle ",
+      "amount": 1,
+      "id": 5998
+    }, {
+      "name": "Tallow Candle",
+      "amount": 10,
+      "id": 5998
+    }, {
+      "name": "Exquisite Buttons",
+      "amount": 3,
+      "id": 7044
+    }, {
+      "name": "Splintered Chest",
+      "amount": 3,
+      "id": 10090
+    }, {
+      "name": "Doman Plum",
+      "amount": 1,
+      "id": 8158
+    }, {
+      "name": "Sands of Time",
+      "amount": 2,
+      "id": 7577
+    }, {
+      "name": "Mirror Apple Seeds",
+      "amount": 5,
+      "id": 7731
+    }, {
+      "name": "Rolanberry Seeds",
+      "amount": 3,
+      "id": 7732
+    }, {
+      "name": "Lavender Seeds",
+      "amount": 1,
+      "id": 7736
+    }, {
+      "name": "Linseed",
+      "amount": 3,
+      "id": 7741
+    }, {
+      "name": "Firelight Seeds",
+      "amount": 18,
+      "id": 15865
+    }, {
+      "name": "Windlight Seeds",
+      "amount": 7,
+      "id": 15867
+    }, {
+      "name": "Levinlight Seeds",
+      "amount": 6,
+      "id": 15869
+    }, {
+      "name": "Crab Ball",
+      "amount": 10,
+      "id": 2593
+    }, {
+      "name": "Goby Ball",
+      "amount": 10,
+      "id": 2589
+    }]
+}]

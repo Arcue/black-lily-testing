@@ -1,0 +1,7 @@
+.left-column {
+  grid-area: left-column;
+}
+
+.right-column {
+  grid-area: right-column;
+}

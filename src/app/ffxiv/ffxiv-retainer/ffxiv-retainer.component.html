@@ -1,0 +1,8 @@
+<div class="content-container">
+  <div class="left-column">
+    <app-retainer-list (selectedRetainer)="currentRetainer = $event"></app-retainer-list>
+  </div>
+  <div class="right-column">
+    <app-retainer-inventory [cRetainer]="currentRetainer"></app-retainer-inventory>
+  </div>
+</div>

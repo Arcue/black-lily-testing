@@ -1,0 +1,568 @@
+[{
+    "retainerName": "Aurila",
+    "retainerInventory": [{
+      "name": "Ivalician Squire's Trousers",
+      "amount": 1,
+      "id": 20884
+    }, {
+      "name": "Ivalician Enchanter's Slops",
+      "amount": 1,
+      "id": 20920
+    }, {
+      "name": "Makai Priestess's Skirt",
+      "amount": 1,
+      "id": 16144
+    }, {
+      "name": "Makai Moon Guide's Quartertights",
+      "amount": 1,
+      "id": 16134
+    }, {
+      "name": "Yafaemi Trousers of Healing",
+      "amount": 1,
+      "id": 15350
+    }, {
+      "name": "Chaos Flanchard",
+      "amount": 1,
+      "id": 11812
+    }, {
+      "name": "Antiquated Aoidos' Tights",
+      "amount": 1,
+      "id": 10203
+    }, {
+      "name": "Prototype Gordian Brayettes of Casting",
+      "amount": 1,
+      "id": 11482
+    }, {
+      "name": "Yasha Haidate of Striking",
+      "amount": 1,
+      "id": 11630
+    }, {
+      "name": "Amon's Breeches",
+      "amount": 1,
+      "id": 8325
+    }, {
+      "name": "Scylla's Culottes of Healing",
+      "amount": 1,
+      "id": 8331
+    }, {
+      "name": "Allagan Trousers of Aiming",
+      "amount": 1,
+      "id": 3505
+    }, {
+      "name": "Allagan Breeches of Casting",
+      "amount": 1,
+      "id": 3508
+    }, {
+      "name": "Valor Cuisses",
+      "amount": 1,
+      "id": 6052
+    }, {
+      "name": "Melee Gaskins",
+      "amount": 1,
+      "id": 6062
+    }, {
+      "name": "Ivalician Squire's Thighboots",
+      "amount": 1,
+      "id": 20885
+    }, {
+      "name": "Ghost Barque Sandals of Healing",
+      "amount": 1,
+      "id": 18161
+    }, {
+      "name": "Prototype Alexandrian Sollerets of Fending",
+      "amount": 1,
+      "id": 16407
+    }, {
+      "name": "Filibuster's Boots of Casting",
+      "amount": 1,
+      "id": 17425
+    }, {
+      "name": "The Feet of Pressing Darkness",
+      "amount": 1,
+      "id": 16095
+    }, {
+      "name": "Makai Markswoman's Longboots",
+      "amount": 1,
+      "id": 16125
+    }, {
+      "name": "Makai Priestess's Longboots",
+      "amount": 1,
+      "id": 16145
+    }, {
+      "name": "Makai Moon Guide's Longboots",
+      "amount": 1,
+      "id": 16135
+    }, {
+      "name": "Yafaemi Sabatons of Fending",
+      "amount": 1,
+      "id": 15321
+    }, {
+      "name": "Yafaemi Boots of Healing",
+      "amount": 1,
+      "id": 15351
+    }, {
+      "name": "Gordian Sollerets of Fending",
+      "amount": 1,
+      "id": 11559
+    }, {
+      "name": "Antiquated Aoidos' Thighboots",
+      "amount": 1,
+      "id": 10204
+    }, {
+      "name": "Antiquated Goetia Thighboots",
+      "amount": 1,
+      "id": 10214
+    }, {
+      "name": "Prototype Gordian Sollerets of Fending",
+      "amount": 1,
+      "id": 11483
+    }, {
+      "name": "Prototype Gordian Gambieras of Casting",
+      "amount": 1,
+      "id": 11489
+    }, {
+      "name": "Choka #55",
+      "amount": 1,
+      "id": 20600
+    }, {
+      "name": "Ironworks Leg Guards of Aiming",
+      "amount": 1,
+      "id": 8612
+    }, {
+      "name": "High Allagan Thighboots of Healing",
+      "amount": 1,
+      "id": 7202
+    }, {
+      "name": "Weathered Noct Greaves",
+      "amount": 1,
+      "id": 7232
+    }, {
+      "name": "Weathered Auroral Boots",
+      "amount": 1,
+      "id": 7258
+    }, {
+      "name": "Allagan Sollerets of Aiming",
+      "amount": 1,
+      "id": 3949
+    }, {
+      "name": "Valor Sollerets",
+      "amount": 1,
+      "id": 6053
+    }, {
+      "name": "Melee Boots",
+      "amount": 1,
+      "id": 6063
+    }, {
+      "name": "Koga Kyahan",
+      "amount": 1,
+      "id": 7957
+    }, {
+      "name": "Darklight Boots of Casting",
+      "amount": 1,
+      "id": 3941
+    }, {
+      "name": "Battlemage's Crakows",
+      "amount": 1,
+      "id": 3839
+    }, {
+      "name": "Plundered Sabatons",
+      "amount": 1,
+      "id": 3781
+    }, {
+      "name": "Foestriker's Boots",
+      "amount": 1,
+      "id": 3786
+    }, {
+      "name": "Ocean Cloud ",
+      "amount": 1,
+      "id": 4872
+    }, {
+      "name": "Ocean Cloud",
+      "amount": 1,
+      "id": 4872
+    }, {
+      "name": "Harbor Herring ",
+      "amount": 3,
+      "id": 4874
+    }, {
+      "name": "Harbor Herring",
+      "amount": 16,
+      "id": 4874
+    }, {
+      "name": "Tiger Cod ",
+      "amount": 2,
+      "id": 4879
+    }, {
+      "name": "Angelfish",
+      "amount": 12,
+      "id": 4883
+    }, {
+      "name": "Blowfish",
+      "amount": 3,
+      "id": 4886
+    }, {
+      "name": "Ogre Barracuda ",
+      "amount": 2,
+      "id": 4888
+    }, {
+      "name": "Ogre Barracuda",
+      "amount": 1,
+      "id": 4888
+    }, {
+      "name": "Black Sole ",
+      "amount": 13,
+      "id": 4892
+    }, {
+      "name": "Black Sole",
+      "amount": 20,
+      "id": 4892
+    }, {
+      "name": "Hammerhead Shark ",
+      "amount": 2,
+      "id": 4893
+    }, {
+      "name": "Sea Pickle",
+      "amount": 2,
+      "id": 4894
+    }, {
+      "name": "Indigo Herring ",
+      "amount": 1,
+      "id": 4895
+    }, {
+      "name": "Ash Tuna ",
+      "amount": 2,
+      "id": 4896
+    }, {
+      "name": "Ash Tuna",
+      "amount": 9,
+      "id": 4896
+    }, {
+      "name": "Fullmoon Sardine",
+      "amount": 1,
+      "id": 4898
+    }, {
+      "name": "Lavender Remora ",
+      "amount": 1,
+      "id": 4901
+    }, {
+      "name": "Lavender Remora",
+      "amount": 3,
+      "id": 4901
+    }, {
+      "name": "Balloonfish ",
+      "amount": 4,
+      "id": 4902
+    }, {
+      "name": "Balloonfish",
+      "amount": 21,
+      "id": 4902
+    }, {
+      "name": "Raincaller ",
+      "amount": 2,
+      "id": 4905
+    }, {
+      "name": "Crayfish ",
+      "amount": 1,
+      "id": 4925
+    }, {
+      "name": "Crayfish",
+      "amount": 14,
+      "id": 4925
+    }, {
+      "name": "Striped Goby ",
+      "amount": 3,
+      "id": 4927
+    }, {
+      "name": "Striped Goby",
+      "amount": 11,
+      "id": 4927
+    }, {
+      "name": "Bone Crayfish ",
+      "amount": 2,
+      "id": 4929
+    }, {
+      "name": "Bone Crayfish",
+      "amount": 15,
+      "id": 4929
+    }, {
+      "name": "Pipira",
+      "amount": 5,
+      "id": 4932
+    }, {
+      "name": "Gudgeon ",
+      "amount": 2,
+      "id": 4934
+    }, {
+      "name": "Gudgeon",
+      "amount": 17,
+      "id": 4934
+    }, {
+      "name": "Maiden Carp ",
+      "amount": 10,
+      "id": 4936
+    }, {
+      "name": "Maiden Carp",
+      "amount": 1,
+      "id": 4936
+    }, {
+      "name": "Abalathian Smelt ",
+      "amount": 1,
+      "id": 4937
+    }, {
+      "name": "Abalathian Smelt",
+      "amount": 3,
+      "id": 4937
+    }, {
+      "name": "Mudskipper ",
+      "amount": 4,
+      "id": 4939
+    }, {
+      "name": "Mudskipper",
+      "amount": 33,
+      "id": 4939
+    }, {
+      "name": "Rainbow Trout ",
+      "amount": 3,
+      "id": 4940
+    }, {
+      "name": "Rainbow Trout",
+      "amount": 4,
+      "id": 4940
+    }, {
+      "name": "River Crab",
+      "amount": 43,
+      "id": 4941
+    }, {
+      "name": "Ala Mhigan Fighting Fish ",
+      "amount": 1,
+      "id": 4942
+    }, {
+      "name": "Ala Mhigan Fighting Fish",
+      "amount": 7,
+      "id": 4942
+    }, {
+      "name": "Faerie Bass",
+      "amount": 4,
+      "id": 4943
+    }, {
+      "name": "La Noscean Perch ",
+      "amount": 1,
+      "id": 4946
+    }, {
+      "name": "La Noscean Perch",
+      "amount": 1,
+      "id": 4946
+    }, {
+      "name": "Moat Carp ",
+      "amount": 2,
+      "id": 4947
+    }, {
+      "name": "Moat Carp",
+      "amount": 2,
+      "id": 4947
+    }, {
+      "name": "Copperfish ",
+      "amount": 6,
+      "id": 4948
+    }, {
+      "name": "Copperfish",
+      "amount": 10,
+      "id": 4948
+    }, {
+      "name": "Eunuch Crayfish",
+      "amount": 1,
+      "id": 4952
+    }, {
+      "name": "Jade Eel",
+      "amount": 5,
+      "id": 4953
+    }, {
+      "name": "Warmwater Trout ",
+      "amount": 1,
+      "id": 4955
+    }, {
+      "name": "Warmwater Trout",
+      "amount": 1,
+      "id": 4955
+    }, {
+      "name": "Four-eyed Fish ",
+      "amount": 1,
+      "id": 4957
+    }, {
+      "name": "Four-eyed Fish",
+      "amount": 1,
+      "id": 4957
+    }, {
+      "name": "Black Eel ",
+      "amount": 3,
+      "id": 4958
+    }, {
+      "name": "Dark Bass ",
+      "amount": 5,
+      "id": 4959
+    }, {
+      "name": "Dark Bass",
+      "amount": 3,
+      "id": 4959
+    }, {
+      "name": "Lamprey",
+      "amount": 1,
+      "id": 4965
+    }, {
+      "name": "Plaguefish ",
+      "amount": 3,
+      "id": 4966
+    }, {
+      "name": "Plaguefish",
+      "amount": 10,
+      "id": 4966
+    }, {
+      "name": "Grip Killifish",
+      "amount": 5,
+      "id": 4970
+    }, {
+      "name": "Mitten Crab ",
+      "amount": 4,
+      "id": 4974
+    }, {
+      "name": "Mitten Crab",
+      "amount": 11,
+      "id": 4974
+    }, {
+      "name": "Seema ",
+      "amount": 1,
+      "id": 4976
+    }, {
+      "name": "Silverfish ",
+      "amount": 1,
+      "id": 4978
+    }, {
+      "name": "Silverfish",
+      "amount": 11,
+      "id": 4978
+    }, {
+      "name": "Giant Bass ",
+      "amount": 3,
+      "id": 4981
+    }, {
+      "name": "Giant Bass",
+      "amount": 18,
+      "id": 4981
+    }, {
+      "name": "Golden Loach ",
+      "amount": 2,
+      "id": 4984
+    }, {
+      "name": "Golden Loach",
+      "amount": 10,
+      "id": 4984
+    }, {
+      "name": "Crimson Trout",
+      "amount": 4,
+      "id": 4986
+    }, {
+      "name": "Discus ",
+      "amount": 2,
+      "id": 4987
+    }, {
+      "name": "Discus",
+      "amount": 22,
+      "id": 4987
+    }, {
+      "name": "Loyal Pleco ",
+      "amount": 2,
+      "id": 4990
+    }, {
+      "name": "Loyal Pleco",
+      "amount": 17,
+      "id": 4990
+    }, {
+      "name": "Knifefish",
+      "amount": 10,
+      "id": 4993
+    }, {
+      "name": "Common Sculpin ",
+      "amount": 2,
+      "id": 4995
+    }, {
+      "name": "Common Sculpin",
+      "amount": 7,
+      "id": 4995
+    }, {
+      "name": "Malm Kelp",
+      "amount": 10,
+      "id": 4776
+    }, {
+      "name": "Acorn Snail",
+      "amount": 1,
+      "id": 4944
+    }, {
+      "name": "Pond Mussel",
+      "amount": 2,
+      "id": 4954
+    }, {
+      "name": "Ignus Snail ",
+      "amount": 1,
+      "id": 4989
+    }, {
+      "name": "Ignus Snail",
+      "amount": 10,
+      "id": 4989
+    }, {
+      "name": "Sunrise Tellin ",
+      "amount": 2,
+      "id": 5465
+    }, {
+      "name": "Sand Bream ",
+      "amount": 1,
+      "id": 5032
+    }, {
+      "name": "Sand Bream",
+      "amount": 4,
+      "id": 5032
+    }, {
+      "name": "Dustfish",
+      "amount": 5,
+      "id": 5034
+    }, {
+      "name": "Storm Rider",
+      "amount": 9,
+      "id": 5035
+    }, {
+      "name": "Antlion Slug ",
+      "amount": 2,
+      "id": 5036
+    }, {
+      "name": "Antlion Slug",
+      "amount": 1,
+      "id": 5036
+    }, {
+      "name": "Cloud Jellyfish ",
+      "amount": 4,
+      "id": 5038
+    }, {
+      "name": "Cloud Jellyfish",
+      "amount": 10,
+      "id": 5038
+    }, {
+      "name": "Skyfish",
+      "amount": 8,
+      "id": 5039
+    }, {
+      "name": "Cloud Cutter ",
+      "amount": 1,
+      "id": 5040
+    }, {
+      "name": "Cloud Cutter",
+      "amount": 36,
+      "id": 5040
+    }, {
+      "name": "Rift Sailor ",
+      "amount": 1,
+      "id": 5042
+    }, {
+      "name": "Rift Sailor",
+      "amount": 18,
+      "id": 5042
+    }]
+}]

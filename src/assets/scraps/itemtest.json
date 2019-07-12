@@ -1,0 +1,3004 @@
+{
+    "Results": [
+        {
+            "ID": 10463,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Steel-barreled Musketoon"
+        },
+        {
+            "ID": 10464,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Mythril-barreled Carbine"
+        },
+        {
+            "ID": 10465,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Mythril-barreled Musketoon"
+        },
+        {
+            "ID": 10466,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Cobalt-barreled Carbine"
+        },
+        {
+            "ID": 10467,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Cobalt-barreled Musketoon"
+        },
+        {
+            "ID": 10468,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Giantsgall Knifelock"
+        },
+        {
+            "ID": 10469,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Darksteel-barreled Blunderbuss"
+        },
+        {
+            "ID": 10470,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Inferno Musketoon"
+        },
+        {
+            "ID": 10471,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Abandon of the Vortex"
+        },
+        {
+            "ID": 10472,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Menacing Moggle Mog Gun"
+        },
+        {
+            "ID": 10473,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Tremor Culverin"
+        },
+        {
+            "ID": 10474,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Wootz Revolver"
+        },
+        {
+            "ID": 10476,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Wolf Musketoon"
+        },
+        {
+            "ID": 10524,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Star Globe"
+        },
+        {
+            "ID": 10525,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Silver Star Globe"
+        },
+        {
+            "ID": 10526,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Mythril Star Globe"
+        },
+        {
+            "ID": 10527,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Mythril Planisphere"
+        },
+        {
+            "ID": 10528,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Electrum Star Globe"
+        },
+        {
+            "ID": 10529,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Cobalt Planisphere"
+        },
+        {
+            "ID": 10530,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Giantsgall Star Globe"
+        },
+        {
+            "ID": 10531,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "The Evening Star"
+        },
+        {
+            "ID": 10532,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Inferno Star Globe"
+        },
+        {
+            "ID": 10533,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Lift of the Vortex"
+        },
+        {
+            "ID": 10534,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Tremor Star Globe"
+        },
+        {
+            "ID": 10535,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Moonlit Moggle Moglobe"
+        },
+        {
+            "ID": 10536,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Platinum Planisphere"
+        },
+        {
+            "ID": 10538,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Wolf Planisphere"
+        },
+        {
+            "ID": 10625,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Dark Knight's Arm"
+            },
+            "Name": "Titanium Greatsword"
+        },
+        {
+            "ID": 10626,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Dark Knight's Arm"
+            },
+            "Name": "Adamantite Zweihander"
+        },
+        {
+            "ID": 10627,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Dark Knight's Arm"
+            },
+            "Name": "Adamantite Greatsword"
+        },
+        {
+            "ID": 10628,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Mythrite-barreled Arquebus"
+        },
+        {
+            "ID": 10629,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Mythrite-barreled Musketoon"
+        },
+        {
+            "ID": 10630,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Titanium-barreled Arquebus"
+        },
+        {
+            "ID": 10631,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Titanium-barreled Snaphance"
+        },
+        {
+            "ID": 10632,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Adamantite Revolver"
+        },
+        {
+            "ID": 10633,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Adamantite-barreled Culverin"
+        },
+        {
+            "ID": 10634,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Two\u2013handed Conjurer's Arm"
+            },
+            "Name": "Cedar Crook"
+        },
+        {
+            "ID": 10635,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Two\u2013handed Conjurer's Arm"
+            },
+            "Name": "Holy Cedar Wand"
+        },
+        {
+            "ID": 10636,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Two\u2013handed Conjurer's Arm"
+            },
+            "Name": "Dark Chestnut Rod"
+        },
+        {
+            "ID": 10637,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Two\u2013handed Conjurer's Arm"
+            },
+            "Name": "Hallowed Chestnut Wand"
+        },
+        {
+            "ID": 10638,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Two\u2013handed Conjurer's Arm"
+            },
+            "Name": "Birch Signum"
+        },
+        {
+            "ID": 10639,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Two\u2013handed Conjurer's Arm"
+            },
+            "Name": "Birch Rod"
+        },
+        {
+            "ID": 10640,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Two\u2013handed Thaumaturge's Arm"
+            },
+            "Name": "Yeti Staff"
+        },
+        {
+            "ID": 10641,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Two\u2013handed Thaumaturge's Arm"
+            },
+            "Name": "Obsidian Longpole"
+        },
+        {
+            "ID": 10642,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Two\u2013handed Thaumaturge's Arm"
+            },
+            "Name": "Hardsilver Staff"
+        },
+        {
+            "ID": 10643,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Two\u2013handed Thaumaturge's Arm"
+            },
+            "Name": "Hardsilver Pole"
+        },
+        {
+            "ID": 10644,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Two\u2013handed Thaumaturge's Arm"
+            },
+            "Name": "Aurum Regis Longpole"
+        },
+        {
+            "ID": 10645,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Two\u2013handed Thaumaturge's Arm"
+            },
+            "Name": "Aurum Regis Staff"
+        },
+        {
+            "ID": 10646,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Arcanist's Grimoire"
+            },
+            "Name": "Archaeoskin Grimoire"
+        },
+        {
+            "ID": 10647,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Arcanist's Grimoire"
+            },
+            "Name": "Wyvernskin Grimoire"
+        },
+        {
+            "ID": 10648,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Arcanist's Grimoire"
+            },
+            "Name": "Dhalmelskin Grimoire"
+        },
+        {
+            "ID": 10649,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Arcanist's Grimoire"
+            },
+            "Name": "Dragonskin Grimoire"
+        },
+        {
+            "ID": 10650,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Arcanist's Grimoire"
+            },
+            "Name": "Book of Aurum Regis"
+        },
+        {
+            "ID": 10651,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Arcanist's Grimoire"
+            },
+            "Name": "Noble Gold"
+        },
+        {
+            "ID": 10652,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Scholar's Arm"
+            },
+            "Name": "Archaeoskin Codex"
+        },
+        {
+            "ID": 10653,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Scholar's Arm"
+            },
+            "Name": "Wyvernskin Codex"
+        },
+        {
+            "ID": 10654,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Scholar's Arm"
+            },
+            "Name": "Dhalmelskin Codex"
+        },
+        {
+            "ID": 10655,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Scholar's Arm"
+            },
+            "Name": "Dragonskin Codex"
+        },
+        {
+            "ID": 10656,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Scholar's Arm"
+            },
+            "Name": "Noble's Picatrix"
+        },
+        {
+            "ID": 10657,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Scholar's Arm"
+            },
+            "Name": "Noble's Codex"
+        },
+        {
+            "ID": 10658,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Mythrite Star Globe"
+        },
+        {
+            "ID": 10659,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Mythrite Planisphere"
+        },
+        {
+            "ID": 10660,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Hardsilver Star Globe"
+        },
+        {
+            "ID": 10662,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Aurum Regis Orrery"
+        },
+        {
+            "ID": 10663,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Aurum Regis Planisphere"
+        },
+        {
+            "ID": 10664,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Shield"
+            },
+            "Name": "Mythrite Scutum"
+        },
+        {
+            "ID": 10665,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Shield"
+            },
+            "Name": "Mythrite Bladed Lantern Shield"
+        },
+        {
+            "ID": 10666,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Shield"
+            },
+            "Name": "Titanium Kite Shield"
+        },
+        {
+            "ID": 10667,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Shield"
+            },
+            "Name": "Titanium Hoplon"
+        },
+        {
+            "ID": 10668,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Shield"
+            },
+            "Name": "Adamantite Scutum"
+        },
+        {
+            "ID": 10669,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Shield"
+            },
+            "Name": "Adamantite Hoplon"
+        },
+        {
+            "ID": 10670,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Mythrite Sallet of Fending"
+        },
+        {
+            "ID": 10671,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Wyvernskin Mane of Fending"
+        },
+        {
+            "ID": 10672,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Titanium Mask of Fending"
+        },
+        {
+            "ID": 10673,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Titanium Helm of Fending"
+        },
+        {
+            "ID": 10674,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Adamantite Helm of Fending"
+        },
+        {
+            "ID": 10675,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Adamantite Circlet of Fending"
+        },
+        {
+            "ID": 10676,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Adamantite Barbut of Fending"
+        },
+        {
+            "ID": 10677,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Mythrite Hauberk of Fending"
+        },
+        {
+            "ID": 10678,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Holy Rainbow Shirt of Fending"
+        },
+        {
+            "ID": 10679,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Titanium Mail of Fending"
+        },
+        {
+            "ID": 10680,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Titanium Cuirass of Fending"
+        },
+        {
+            "ID": 10681,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Adamantite Armor of Fending"
+        },
+        {
+            "ID": 10682,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Adamantite Lorica of Fending"
+        },
+        {
+            "ID": 10683,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Adamantite Pauldroncoat of Fending"
+        },
+        {
+            "ID": 10684,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Mythrite Gauntlets of Fending"
+        },
+        {
+            "ID": 10685,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Wyvernskin Gloves of Fending"
+        },
+        {
+            "ID": 10686,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Titanium Gauntlets of Fending"
+        },
+        {
+            "ID": 10687,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Titanium Vambraces of Fending"
+        },
+        {
+            "ID": 10688,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Adamantite Gauntlets of Fending"
+        },
+        {
+            "ID": 10689,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Heavy Adamantite Gauntlets of Fending"
+        },
+        {
+            "ID": 10690,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Adamantite Vambraces of Fending"
+        },
+        {
+            "ID": 10691,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Mythrite Tassets of Fending"
+        },
+        {
+            "ID": 10692,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Wyvernskin Belt of Fending"
+        },
+        {
+            "ID": 10693,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Titanium Plate Belt of Fending"
+        },
+        {
+            "ID": 10694,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Titanium Tassets of Fending"
+        },
+        {
+            "ID": 10695,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Adamantite Tassets of Fending"
+        },
+        {
+            "ID": 10696,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Adamantite Plate Belt of Fending"
+        },
+        {
+            "ID": 10697,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Griffin Leather Twinbelt of Fending"
+        },
+        {
+            "ID": 10698,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Archaeoskin Breeches of Fending"
+        },
+        {
+            "ID": 10699,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Holy Rainbow Sarouel of Fending"
+        },
+        {
+            "ID": 10700,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Dhalmelskin Breeches of Fending"
+        },
+        {
+            "ID": 10701,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Dragonskin Breeches of Fending"
+        },
+        {
+            "ID": 10702,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Adamantite Chain Hose of Fending"
+        },
+        {
+            "ID": 10703,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Chimerical Felt Breeches of Fending"
+        },
+        {
+            "ID": 10704,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Griffin Leather Skirt of Fending"
+        },
+        {
+            "ID": 10705,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Mythrite Sabatons of Fending"
+        },
+        {
+            "ID": 10706,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Wyvernskin Boots of Fending"
+        },
+        {
+            "ID": 10707,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Titanium Sollerets of Fending"
+        },
+        {
+            "ID": 10708,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Titanium Sabatons of Fending"
+        },
+        {
+            "ID": 10709,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Adamantite Sabatons of Fending"
+        },
+        {
+            "ID": 10710,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Adamantite Greaves of Fending"
+        },
+        {
+            "ID": 10711,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Adamantite Sollerets of Fending"
+        },
+        {
+            "ID": 10712,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Mythrite Sallet of Maiming"
+        },
+        {
+            "ID": 10713,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Wyvernskin Pot Helm of Maiming"
+        },
+        {
+            "ID": 10714,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Titanium Sallet of Maiming"
+        },
+        {
+            "ID": 10715,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Titanium Mask of Maiming"
+        },
+        {
+            "ID": 10716,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Adamantite Helm of Maiming"
+        },
+        {
+            "ID": 10717,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Serpentskin Helm of Maiming"
+        },
+        {
+            "ID": 10718,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Adamantite Barbut of Maiming"
+        },
+        {
+            "ID": 10719,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Mythrite Hauberk of Maiming"
+        },
+        {
+            "ID": 10720,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Holy Rainbow Shirt of Maiming"
+        },
+        {
+            "ID": 10721,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Titanium Cuirass of Maiming"
+        },
+        {
+            "ID": 10722,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Titanium Mail of Maiming"
+        },
+        {
+            "ID": 10723,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Adamantite Armor of Maiming"
+        },
+        {
+            "ID": 10724,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Adamantite Mail of Maiming"
+        },
+        {
+            "ID": 10725,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Adamantite Pauldroncoat of Maiming"
+        },
+        {
+            "ID": 10726,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Mythrite Gauntlets of Maiming"
+        },
+        {
+            "ID": 10727,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Wyvernskin Gloves of Maiming"
+        },
+        {
+            "ID": 10728,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Titanium Mitt Gauntlets of Maiming"
+        },
+        {
+            "ID": 10729,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Titanium Vambraces of Maiming"
+        },
+        {
+            "ID": 10730,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Adamantite Gauntlets of Maiming"
+        },
+        {
+            "ID": 10731,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Serpentskin Armguards of Maiming"
+        },
+        {
+            "ID": 10732,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Adamantite Vambraces of Maiming"
+        },
+        {
+            "ID": 10733,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Mythrite Tassets of Maiming"
+        },
+        {
+            "ID": 10734,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Wyvernskin Belt of Maiming"
+        },
+        {
+            "ID": 10735,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Titanium Plate Belt of Maiming"
+        },
+        {
+            "ID": 10736,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Dragonskin Belt of Maiming"
+        },
+        {
+            "ID": 10737,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Adamantite Tassets of Maiming"
+        },
+        {
+            "ID": 10738,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Serpentskin Voyager's Belt of Maiming"
+        },
+        {
+            "ID": 10739,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Griffin Leather Twinbelt of Maiming"
+        },
+        {
+            "ID": 10740,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Archaeoskin Breeches of Maiming"
+        },
+        {
+            "ID": 10741,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Holy Rainbow Sarouel of Maiming"
+        },
+        {
+            "ID": 10742,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Dhalmelskin Breeches of Maiming"
+        },
+        {
+            "ID": 10743,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Dragonskin Breeches of Maiming"
+        },
+        {
+            "ID": 10744,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Adamantite Chain Hose of Maiming"
+        },
+        {
+            "ID": 10745,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Serpentskin Hose of Maiming"
+        },
+        {
+            "ID": 10746,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Griffin Leather Skirt of Maiming"
+        },
+        {
+            "ID": 10747,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Mythrite Sabatons of Maiming"
+        },
+        {
+            "ID": 10748,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Wyvernskin Boots of Maiming"
+        },
+        {
+            "ID": 10749,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Titanium Sabatons of Maiming"
+        },
+        {
+            "ID": 10750,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Titanium Sollerets of Maiming"
+        },
+        {
+            "ID": 10751,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Adamantite Sabatons of Maiming"
+        },
+        {
+            "ID": 10752,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Adamantite Leg Guards of Maiming"
+        },
+        {
+            "ID": 10753,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Adamantite Sollerets of Maiming"
+        },
+        {
+            "ID": 10754,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Mythrite Circlet of Striking"
+        },
+        {
+            "ID": 10755,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Wyvernskin Eyepatch of Striking"
+        },
+        {
+            "ID": 10756,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Titanium Mask of Striking"
+        },
+        {
+            "ID": 10757,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Titanium Headgear of Striking"
+        },
+        {
+            "ID": 10758,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Chimerical Felt Cap of Striking"
+        },
+        {
+            "ID": 10759,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Chimerical Felt Coif of Striking"
+        },
+        {
+            "ID": 10760,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Griffin Leather Tricorne of Striking"
+        },
+        {
+            "ID": 10761,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Rainbow Bolero of Striking"
+        },
+        {
+            "ID": 10762,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Holy Rainbow Shirt of Striking"
+        },
+        {
+            "ID": 10763,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Dhalmelskin Jacket of Striking"
+        },
+        {
+            "ID": 10764,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Titanium Mail of Striking"
+        },
+        {
+            "ID": 10765,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Chimerical Felt Cyclas of Striking"
+        },
+        {
+            "ID": 10766,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Chimerical Felt Tabard of Striking"
+        },
+        {
+            "ID": 10767,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Griffin Leather Coat of Striking"
+        },
+        {
+            "ID": 10768,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Archaeoskin Gloves of Striking"
+        },
+        {
+            "ID": 10769,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Wyvernskin Gloves of Striking"
+        },
+        {
+            "ID": 10770,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Dhalmelskin Armguards of Striking"
+        },
+        {
+            "ID": 10771,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Titanium Vambraces of Striking"
+        },
+        {
+            "ID": 10772,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Serpentskin Armguards of Striking"
+        },
+        {
+            "ID": 10773,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Serpentskin Bracers of Striking"
+        },
+        {
+            "ID": 10774,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Griffin Leather Bracers of Striking"
+        },
+        {
+            "ID": 10775,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Archaeoskin Belt of Striking"
+        },
+        {
+            "ID": 10776,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Wyvernskin Belt of Striking"
+        },
+        {
+            "ID": 10777,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Dhalmelskin Belt of Striking"
+        },
+        {
+            "ID": 10778,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Dragonskin Belt of Striking"
+        },
+        {
+            "ID": 10779,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Serpentskin Ringbelt of Striking"
+        },
+        {
+            "ID": 10780,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Serpentskin Hunting Belt of Striking"
+        },
+        {
+            "ID": 10781,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Astral Silk Sash of Striking"
+        },
+        {
+            "ID": 10782,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Rainbow Culottes of Striking"
+        },
+        {
+            "ID": 10783,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Holy Rainbow Sarouel of Striking"
+        },
+        {
+            "ID": 10784,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Ramie Trousers of Striking"
+        },
+        {
+            "ID": 10785,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Dragonskin Breeches of Striking"
+        },
+        {
+            "ID": 10786,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Chimerical Felt Hose of Striking"
+        },
+        {
+            "ID": 10787,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Serpentskin Brais of Striking"
+        },
+        {
+            "ID": 10788,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Griffin Leather Brais of Striking"
+        },
+        {
+            "ID": 10789,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Archaeoskin Boots of Striking"
+        },
+        {
+            "ID": 10790,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Wyvernskin Boots of Striking"
+        },
+        {
+            "ID": 10791,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Dhalmelskin Leggings of Striking"
+        },
+        {
+            "ID": 10792,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Titanium Sabatons of Striking"
+        },
+        {
+            "ID": 10793,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Serpentskin Boots of Striking"
+        },
+        {
+            "ID": 10794,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Serpentskin Thighboots of Striking"
+        },
+        {
+            "ID": 10795,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Griffin Leather Boots of Striking"
+        },
+        {
+            "ID": 10796,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Rainbow Cap of Aiming"
+        },
+        {
+            "ID": 10797,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Holy Rainbow Hat of Aiming"
+        },
+        {
+            "ID": 10798,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Titanium Mask of Aiming"
+        },
+        {
+            "ID": 10799,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Hallowed Chestnut Mask of Aiming"
+        },
+        {
+            "ID": 10800,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Chimerical Felt Cap of Aiming"
+        },
+        {
+            "ID": 10801,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Chimerical Felt Coif of Aiming"
+        },
+        {
+            "ID": 10802,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Griffin Leather Blinder of Aiming"
+        },
+        {
+            "ID": 10803,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Rainbow Robe of Aiming"
+        },
+        {
+            "ID": 10804,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Holy Rainbow Shirt of Aiming"
+        },
+        {
+            "ID": 10586,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Gladiator's Arm"
+            },
+            "Name": "Mythrite Katzbalger"
+        },
+        {
+            "ID": 10587,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Gladiator's Arm"
+            },
+            "Name": "Mythrite Flametongue"
+        },
+        {
+            "ID": 10588,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Gladiator's Arm"
+            },
+            "Name": "Titanium Bastard Sword"
+        },
+        {
+            "ID": 10589,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Gladiator's Arm"
+            },
+            "Name": "Titanium Longsword"
+        },
+        {
+            "ID": 10590,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Gladiator's Arm"
+            },
+            "Name": "Adamantite Broadsword"
+        },
+        {
+            "ID": 10591,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Gladiator's Arm"
+            },
+            "Name": "Adamantite Winglet"
+        },
+        {
+            "ID": 10592,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Pugilist's Arm"
+            },
+            "Name": "Mythrite Patas"
+        },
+        {
+            "ID": 10593,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Pugilist's Arm"
+            },
+            "Name": "Mythrite Jamadhars"
+        },
+        {
+            "ID": 10594,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Pugilist's Arm"
+            },
+            "Name": "Titanium Jamadhars"
+        },
+        {
+            "ID": 10595,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Pugilist's Arm"
+            },
+            "Name": "Titanium Knuckles"
+        },
+        {
+            "ID": 10596,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Pugilist's Arm"
+            },
+            "Name": "Adamantite Jamadhars"
+        },
+        {
+            "ID": 10597,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Pugilist's Arm"
+            },
+            "Name": "Adamantite Knuckles"
+        },
+        {
+            "ID": 10598,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Marauder's Arm"
+            },
+            "Name": "Mythrite War Axe"
+        },
+        {
+            "ID": 10599,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Marauder's Arm"
+            },
+            "Name": "Mythrite Labrys"
+        },
+        {
+            "ID": 10600,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Marauder's Arm"
+            },
+            "Name": "Titanium Axe"
+        },
+        {
+            "ID": 10601,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Marauder's Arm"
+            },
+            "Name": "Titanium Battleaxe"
+        },
+        {
+            "ID": 10602,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Marauder's Arm"
+            },
+            "Name": "Adamantite Bill"
+        },
+        {
+            "ID": 10603,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Marauder's Arm"
+            },
+            "Name": "Adamantite Headsman's Axe"
+        },
+        {
+            "ID": 10604,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Lancer's Arm"
+            },
+            "Name": "Mythrite Trident"
+        },
+        {
+            "ID": 10605,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Lancer's Arm"
+            },
+            "Name": "Mythrite Pugil Stick"
+        },
+        {
+            "ID": 10606,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Lancer's Arm"
+            },
+            "Name": "Titanium Lance"
+        },
+        {
+            "ID": 10607,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Lancer's Arm"
+            },
+            "Name": "Titanium Fork"
+        },
+        {
+            "ID": 10608,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Lancer's Arm"
+            },
+            "Name": "Adamantite Spear"
+        },
+        {
+            "ID": 10609,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Lancer's Arm"
+            },
+            "Name": "Adamantite Trident"
+        },
+        {
+            "ID": 10610,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Archer's Arm"
+            },
+            "Name": "Cedar Longbow"
+        },
+        {
+            "ID": 10611,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Archer's Arm"
+            },
+            "Name": "Holy Cedar Composite Bow"
+        },
+        {
+            "ID": 10612,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Archer's Arm"
+            },
+            "Name": "Dark Chestnut Longbow"
+        },
+        {
+            "ID": 10613,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Archer's Arm"
+            },
+            "Name": "Hallowed Chestnut Composite Bow"
+        },
+        {
+            "ID": 10614,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Archer's Arm"
+            },
+            "Name": "Birch Longbow"
+        },
+        {
+            "ID": 10615,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Archer's Arm"
+            },
+            "Name": "Birch Composite Bow"
+        },
+        {
+            "ID": 10616,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Rogue's Arm"
+            },
+            "Name": "Mythrite Pugiones"
+        },
+        {
+            "ID": 10617,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Rogue's Arm"
+            },
+            "Name": "Mythrite Stilettos"
+        },
+        {
+            "ID": 10618,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Rogue's Arm"
+            },
+            "Name": "Titanium Pugiones"
+        },
+        {
+            "ID": 10619,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Rogue's Arm"
+            },
+            "Name": "Titanium Kris"
+        },
+        {
+            "ID": 10620,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Rogue's Arm"
+            },
+            "Name": "Adamantite Knives"
+        },
+        {
+            "ID": 10621,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Rogue's Arm"
+            },
+            "Name": "Adamantite Main Gauches"
+        },
+        {
+            "ID": 10622,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Dark Knight's Arm"
+            },
+            "Name": "Mythrite Claymore"
+        },
+        {
+            "ID": 10623,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Dark Knight's Arm"
+            },
+            "Name": "Mythrite Zweihander"
+        },
+        {
+            "ID": 10624,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Dark Knight's Arm"
+            },
+            "Name": "Titanium Claymore"
+        },
+        {
+            "ID": 10462,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Machinist's Arm"
+            },
+            "Name": "Steel-barreled Carbine"
+        },
+        {
+            "ID": 10661,
+            "ItemKind": {
+                "Name_en": "Arms"
+            },
+            "ItemUICategory": {
+                "Name_en": "Astrologian's Arm"
+            },
+            "Name": "Hardsilver Planisphere"
+        },
+        {
+            "ID": 10805,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Dhalmelskin Jacket of Aiming"
+        },
+        {
+            "ID": 10806,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Hallowed Ramie Doublet of Aiming"
+        },
+        {
+            "ID": 10807,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Chimerical Felt Cyclas of Aiming"
+        },
+        {
+            "ID": 10808,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Chimerical Felt Tabard of Aiming"
+        },
+        {
+            "ID": 10809,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Griffin Leather Longcoat of Aiming"
+        },
+        {
+            "ID": 10810,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Archaeoskin Gloves of Aiming"
+        },
+        {
+            "ID": 10811,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Wyvernskin Cuffs of Aiming"
+        },
+        {
+            "ID": 10812,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Dhalmelskin Armguards of Aiming"
+        },
+        {
+            "ID": 10813,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Dragonskin Gloves of Aiming"
+        },
+        {
+            "ID": 10814,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Serpentskin Armguards of Aiming"
+        },
+        {
+            "ID": 10815,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Serpentskin Bracers of Aiming"
+        },
+        {
+            "ID": 10816,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Griffin Leather Gloves of Aiming"
+        },
+        {
+            "ID": 10817,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Rainbow Sash of Aiming"
+        },
+        {
+            "ID": 10818,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Wyvernskin Belt of Aiming"
+        },
+        {
+            "ID": 10819,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Dhalmelskin Belt of Aiming"
+        },
+        {
+            "ID": 10820,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Hallowed Ramie Sash of Aiming"
+        },
+        {
+            "ID": 10821,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Serpentskin Ringbelt of Aiming"
+        },
+        {
+            "ID": 10822,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Chimerical Felt Sash of Aiming"
+        },
+        {
+            "ID": 10823,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Waist"
+            },
+            "Name": "Astral Silk Sash of Aiming"
+        },
+        {
+            "ID": 10824,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Rainbow Slops of Aiming"
+        },
+        {
+            "ID": 10825,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Holy Rainbow Sarouel of Aiming"
+        },
+        {
+            "ID": 10826,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Ramie Trousers of Aiming"
+        },
+        {
+            "ID": 10827,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Hallowed Ramie Gaskins of Aiming"
+        },
+        {
+            "ID": 10828,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Chimerical Felt Hose of Aiming"
+        },
+        {
+            "ID": 10829,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Serpentskin Brais of Aiming"
+        },
+        {
+            "ID": 10830,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Legs"
+            },
+            "Name": "Astral Silk Slops of Aiming"
+        },
+        {
+            "ID": 10831,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Archaeoskin Shoes of Aiming"
+        },
+        {
+            "ID": 10832,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Wyvernskin Boots of Aiming"
+        },
+        {
+            "ID": 10833,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Dhalmelskin Leggings of Aiming"
+        },
+        {
+            "ID": 10834,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Dragonskin Boots of Aiming"
+        },
+        {
+            "ID": 10835,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Serpentskin Boots of Aiming"
+        },
+        {
+            "ID": 10836,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Serpentskin Thighboots of Aiming"
+        },
+        {
+            "ID": 10837,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Feet"
+            },
+            "Name": "Griffin Leather Thighboots of Aiming"
+        },
+        {
+            "ID": 10838,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Rainbow Coif of Scouting"
+        },
+        {
+            "ID": 10839,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Holy Rainbow Scarf of Scouting"
+        },
+        {
+            "ID": 10840,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Titanium Mask of Scouting"
+        },
+        {
+            "ID": 10841,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Titanium Headgear of Scouting"
+        },
+        {
+            "ID": 10842,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Chimerical Felt Cap of Scouting"
+        },
+        {
+            "ID": 10843,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Chimerical Felt Coif of Scouting"
+        },
+        {
+            "ID": 10844,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Head"
+            },
+            "Name": "Griffin Leather Tricorne of Scouting"
+        },
+        {
+            "ID": 10845,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Rainbow Shirt of Scouting"
+        },
+        {
+            "ID": 10846,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Holy Rainbow Shirt of Scouting"
+        },
+        {
+            "ID": 10847,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Dhalmelskin Jacket of Scouting"
+        },
+        {
+            "ID": 10848,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Titanium Mail of Scouting"
+        },
+        {
+            "ID": 10849,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Chimerical Felt Cyclas of Scouting"
+        },
+        {
+            "ID": 10850,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Chimerical Felt Tabard of Scouting"
+        },
+        {
+            "ID": 10851,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Body"
+            },
+            "Name": "Griffin Leather Coat of Scouting"
+        },
+        {
+            "ID": 10852,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Rainbow Halfgloves of Scouting"
+        },
+        {
+            "ID": 10853,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Wyvernskin Cuffs of Scouting"
+        },
+        {
+            "ID": 10854,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Dhalmelskin Armguards of Scouting"
+        },
+        {
+            "ID": 10855,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Titanium Vambraces of Scouting"
+        },
+        {
+            "ID": 10856,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Serpentskin Armguards of Scouting"
+        },
+        {
+            "ID": 10857,
+            "ItemKind": {
+                "Name_en": "Armor"
+            },
+            "ItemUICategory": {
+                "Name_en": "Hands"
+            },
+            "Name": "Serpentskin Bracers of Scouting"
+        }
+    ]
+}

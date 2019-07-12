@@ -1,0 +1,704 @@
+[{
+    "retainerName": "Mairae",
+    "retainerInventory": [{
+      "name": "Mineral Water",
+      "amount": 8,
+      "id": 4751
+    }, {
+      "name": "Buffalo Milk",
+      "amount": 6,
+      "id": 4753
+    }, {
+      "name": "Yak Milk",
+      "amount": 19,
+      "id": 12888
+    }, {
+      "name": "Steppe Milk",
+      "amount": 7,
+      "id": 19878
+    }, {
+      "name": "Cottage Cheese ",
+      "amount": 1,
+      "id": 4754
+    }, {
+      "name": "Cottage Cheese",
+      "amount": 54,
+      "id": 4754
+    }, {
+      "name": "Blue Cheese",
+      "amount": 6,
+      "id": 4755
+    }, {
+      "name": "Cream Cheese ",
+      "amount": 5,
+      "id": 4756
+    }, {
+      "name": "Marmot Meat",
+      "amount": 13,
+      "id": 4758
+    }, {
+      "name": "Mutton Loin ",
+      "amount": 1,
+      "id": 4759
+    }, {
+      "name": "Mutton Loin",
+      "amount": 17,
+      "id": 4759
+    }, {
+      "name": "Dodo Tenderloin ",
+      "amount": 2,
+      "id": 4760
+    }, {
+      "name": "Dodo Tenderloin",
+      "amount": 17,
+      "id": 4760
+    }, {
+      "name": "Mole Meat ",
+      "amount": 1,
+      "id": 4761
+    }, {
+      "name": "Mole Meat",
+      "amount": 19,
+      "id": 4761
+    }, {
+      "name": "Antelope Shank",
+      "amount": 3,
+      "id": 4765
+    }, {
+      "name": "Aldgoat Chuck ",
+      "amount": 10,
+      "id": 4766
+    }, {
+      "name": "Aldgoat Chuck",
+      "amount": 61,
+      "id": 4766
+    }, {
+      "name": "Raptor Shank",
+      "amount": 32,
+      "id": 4767
+    }, {
+      "name": "Buffalo Sirloin ",
+      "amount": 6,
+      "id": 4768
+    }, {
+      "name": "Buffalo Sirloin",
+      "amount": 20,
+      "id": 4768
+    }, {
+      "name": "Eft Tail",
+      "amount": 7,
+      "id": 4769
+    }, {
+      "name": "Orobon Liver",
+      "amount": 26,
+      "id": 4770
+    }, {
+      "name": "Megalocrab Leg",
+      "amount": 3,
+      "id": 4771
+    }, {
+      "name": "Coeurl Meat ",
+      "amount": 13,
+      "id": 6150
+    }, {
+      "name": "Coeurl Meat",
+      "amount": 20,
+      "id": 6150
+    }, {
+      "name": "Canard Breast",
+      "amount": 35,
+      "id": 7605
+    }, {
+      "name": "Loaghtan Chump",
+      "amount": 11,
+      "id": 12873
+    }, {
+      "name": "Dhalmel Meat",
+      "amount": 21,
+      "id": 12874
+    }, {
+      "name": "Okeanis Tail",
+      "amount": 3,
+      "id": 12875
+    }, {
+      "name": "Cockatrice Thigh",
+      "amount": 3,
+      "id": 12876
+    }, {
+      "name": "Dzo Chuck",
+      "amount": 6,
+      "id": 19873
+    }, {
+      "name": "Hornbill Tenderloin ",
+      "amount": 5,
+      "id": 19874
+    }, {
+      "name": "Hornbill Tenderloin",
+      "amount": 12,
+      "id": 19874
+    }, {
+      "name": "Chicken Egg",
+      "amount": 28,
+      "id": 4772
+    }, {
+      "name": "Dodo Egg",
+      "amount": 28,
+      "id": 4773
+    }, {
+      "name": "Puk Egg",
+      "amount": 3,
+      "id": 4774
+    }, {
+      "name": "Apkallu Egg",
+      "amount": 2,
+      "id": 4775
+    }, {
+      "name": "Gastornis Egg",
+      "amount": 12,
+      "id": 12871
+    }, {
+      "name": "Okeanis Egg",
+      "amount": 4,
+      "id": 12872
+    }, {
+      "name": "Gagana Egg",
+      "amount": 3,
+      "id": 19877
+    }, {
+      "name": "Wild Onion",
+      "amount": 15,
+      "id": 4777
+    }, {
+      "name": "Coerthan Carrot",
+      "amount": 35,
+      "id": 4778
+    }, {
+      "name": "Ruby Tomato",
+      "amount": 17,
+      "id": 4780
+    }, {
+      "name": "Alpine Parsnip ",
+      "amount": 1,
+      "id": 4781
+    }, {
+      "name": "Alpine Parsnip",
+      "amount": 7,
+      "id": 4781
+    }, {
+      "name": "La Noscean Lettuce ",
+      "amount": 15,
+      "id": 4782
+    }, {
+      "name": "La Noscean Lettuce",
+      "amount": 29,
+      "id": 4782
+    }, {
+      "name": "Cieldalaes Spinach",
+      "amount": 1,
+      "id": 4783
+    }, {
+      "name": "Highland Parsley ",
+      "amount": 8,
+      "id": 4784
+    }, {
+      "name": "Nopales ",
+      "amount": 4,
+      "id": 4786
+    }, {
+      "name": "Nopales",
+      "amount": 76,
+      "id": 4786
+    }, {
+      "name": "Popoto ",
+      "amount": 3,
+      "id": 4787
+    }, {
+      "name": "Popoto",
+      "amount": 15,
+      "id": 4787
+    }, {
+      "name": "Wizard Eggplant",
+      "amount": 11,
+      "id": 4788
+    }, {
+      "name": "Midland Cabbage ",
+      "amount": 18,
+      "id": 4789
+    }, {
+      "name": "Midland Cabbage",
+      "amount": 28,
+      "id": 4789
+    }, {
+      "name": "Aloe",
+      "amount": 1,
+      "id": 4790
+    }, {
+      "name": "Ramhorn Zucchini ",
+      "amount": 2,
+      "id": 4792
+    }, {
+      "name": "Ramhorn Zucchini",
+      "amount": 16,
+      "id": 4792
+    }, {
+      "name": "Maiden Artichoke ",
+      "amount": 4,
+      "id": 4793
+    }, {
+      "name": "Maiden Artichoke",
+      "amount": 33,
+      "id": 4793
+    }, {
+      "name": "Dzemael Tomato ",
+      "amount": 14,
+      "id": 6148
+    }, {
+      "name": "La Noscean Leek ",
+      "amount": 4,
+      "id": 7593
+    }, {
+      "name": "Dalamud Popoto",
+      "amount": 32,
+      "id": 7603
+    }, {
+      "name": "Cyclops Onion",
+      "amount": 19,
+      "id": 12878
+    }, {
+      "name": "Magma Beet",
+      "amount": 67,
+      "id": 12885
+    }, {
+      "name": "Wild Popoto ",
+      "amount": 2,
+      "id": 17945
+    }, {
+      "name": "Wild Popoto",
+      "amount": 53,
+      "id": 17945
+    }, {
+      "name": "Walker's Popoto",
+      "amount": 54,
+      "id": 17946
+    }, {
+      "name": "Kudzu Root",
+      "amount": 1,
+      "id": 19853
+    }, {
+      "name": "Doman Eggplant",
+      "amount": 1,
+      "id": 19854
+    }, {
+      "name": "Daikon Radish",
+      "amount": 40,
+      "id": 19855
+    }, {
+      "name": "Green Leek",
+      "amount": 1,
+      "id": 19859
+    }, {
+      "name": "Mountain Popoto",
+      "amount": 1,
+      "id": 19861
+    }, {
+      "name": "Sun Cabbage",
+      "amount": 1,
+      "id": 19866
+    }, {
+      "name": "Shriekshroom ",
+      "amount": 8,
+      "id": 4794
+    }, {
+      "name": "Shriekshroom",
+      "amount": 5,
+      "id": 4794
+    }, {
+      "name": "Gil Bun ",
+      "amount": 4,
+      "id": 4796
+    }, {
+      "name": "Button Mushroom ",
+      "amount": 4,
+      "id": 4797
+    }, {
+      "name": "Button Mushroom",
+      "amount": 5,
+      "id": 4797
+    }, {
+      "name": "White Truffle ",
+      "amount": 14,
+      "id": 4798
+    }, {
+      "name": "White Truffle",
+      "amount": 5,
+      "id": 4798
+    }, {
+      "name": "Porcini ",
+      "amount": 10,
+      "id": 12899
+    }, {
+      "name": "Porcini",
+      "amount": 10,
+      "id": 12899
+    }, {
+      "name": "Shiitake Mushroom",
+      "amount": 1,
+      "id": 19863
+    }, {
+      "name": "Lowland Grapes",
+      "amount": 2,
+      "id": 4808
+    }, {
+      "name": "La Noscean Orange ",
+      "amount": 1,
+      "id": 4809
+    }, {
+      "name": "Faerie Apple ",
+      "amount": 12,
+      "id": 4810
+    }, {
+      "name": "Sun Lemon",
+      "amount": 3,
+      "id": 4811
+    }, {
+      "name": "Pixie Plums ",
+      "amount": 7,
+      "id": 4812
+    }, {
+      "name": "Alligator Pear",
+      "amount": 42,
+      "id": 4813
+    }, {
+      "name": "Rolanberry ",
+      "amount": 2,
+      "id": 4815
+    }, {
+      "name": "Rolanberry",
+      "amount": 29,
+      "id": 4815
+    }, {
+      "name": "Prickly Pineapple ",
+      "amount": 5,
+      "id": 4816
+    }, {
+      "name": "Noble Grapes ",
+      "amount": 13,
+      "id": 6145
+    }, {
+      "name": "Noble Grapes",
+      "amount": 1,
+      "id": 6145
+    }, {
+      "name": "Mirror Apple",
+      "amount": 28,
+      "id": 6146
+    }, {
+      "name": "Honey Lemon",
+      "amount": 18,
+      "id": 6147
+    }, {
+      "name": "Apricot ",
+      "amount": 6,
+      "id": 7592
+    }, {
+      "name": "Old World Fig",
+      "amount": 1,
+      "id": 12896
+    }, {
+      "name": "Loquat",
+      "amount": 1,
+      "id": 19851
+    }, {
+      "name": "Kukuru Bean ",
+      "amount": 5,
+      "id": 4803
+    }, {
+      "name": "Kukuru Bean",
+      "amount": 3,
+      "id": 4803
+    }, {
+      "name": "Cinderfoot Olive",
+      "amount": 1,
+      "id": 4804
+    }, {
+      "name": "Gridanian Chestnut ",
+      "amount": 2,
+      "id": 4805
+    }, {
+      "name": "Gridanian Chestnut",
+      "amount": 5,
+      "id": 4805
+    }, {
+      "name": "Iron Acorn ",
+      "amount": 2,
+      "id": 4807
+    }, {
+      "name": "Iron Acorn",
+      "amount": 21,
+      "id": 4807
+    }, {
+      "name": "Buffalo Beans",
+      "amount": 1,
+      "id": 4818
+    }, {
+      "name": "Lalafellin Lentil",
+      "amount": 1,
+      "id": 4820
+    }, {
+      "name": "Royal Kukuru Bean",
+      "amount": 89,
+      "id": 7604
+    }, {
+      "name": "Emerald Beans",
+      "amount": 42,
+      "id": 12879
+    }, {
+      "name": "Dark Chestnut",
+      "amount": 2,
+      "id": 12893
+    }, {
+      "name": "Soybeans",
+      "amount": 1,
+      "id": 19862
+    }, {
+      "name": "Sticky Rice",
+      "amount": 31,
+      "id": 4819
+    }, {
+      "name": "Sunset Wheat",
+      "amount": 5,
+      "id": 4824
+    }, {
+      "name": "Rye Flour ",
+      "amount": 2,
+      "id": 4825
+    }, {
+      "name": "Rye Flour",
+      "amount": 51,
+      "id": 4825
+    }, {
+      "name": "Sunset Wheat Flour ",
+      "amount": 11,
+      "id": 4826
+    }, {
+      "name": "Cornmeal",
+      "amount": 3,
+      "id": 4827
+    }, {
+      "name": "Highland Wheat ",
+      "amount": 46,
+      "id": 12880
+    }, {
+      "name": "Highland Wheat",
+      "amount": 99,
+      "id": 12880
+    }, {
+      "name": "Highland Wheat",
+      "amount": 38,
+      "id": 12880
+    }, {
+      "name": "Buckwheat Kernels",
+      "amount": 1,
+      "id": 19850
+    }, {
+      "name": "Cinnamon ",
+      "amount": 2,
+      "id": 4828
+    }, {
+      "name": "Garlean Garlic",
+      "amount": 19,
+      "id": 4829
+    }, {
+      "name": "Black Pepper",
+      "amount": 50,
+      "id": 4830
+    }, {
+      "name": "Marjoram",
+      "amount": 49,
+      "id": 4832
+    }, {
+      "name": "Galago Mint ",
+      "amount": 3,
+      "id": 4834
+    }, {
+      "name": "Galago Mint",
+      "amount": 25,
+      "id": 4834
+    }, {
+      "name": "Pearl Ginger ",
+      "amount": 2,
+      "id": 4836
+    }, {
+      "name": "Midland Basil",
+      "amount": 16,
+      "id": 4837
+    }, {
+      "name": "Dragon Pepper",
+      "amount": 6,
+      "id": 4838
+    }, {
+      "name": "Laurel",
+      "amount": 57,
+      "id": 4839
+    }, {
+      "name": "Mugwort ",
+      "amount": 3,
+      "id": 4840
+    }, {
+      "name": "Mugwort",
+      "amount": 18,
+      "id": 4840
+    }, {
+      "name": "Almonds",
+      "amount": 30,
+      "id": 4842
+    }, {
+      "name": "Desert Saffron",
+      "amount": 5,
+      "id": 4843
+    }, {
+      "name": "Nutmeg",
+      "amount": 17,
+      "id": 4844
+    }, {
+      "name": "Sagolii Sage ",
+      "amount": 3,
+      "id": 4845
+    }, {
+      "name": "Sagolii Sage",
+      "amount": 40,
+      "id": 4845
+    }, {
+      "name": "Thanalan Tea Leaves",
+      "amount": 17,
+      "id": 4846
+    }, {
+      "name": "Star Anise",
+      "amount": 18,
+      "id": 7602
+    }, {
+      "name": "Mist Dill ",
+      "amount": 2,
+      "id": 12883
+    }, {
+      "name": "Mist Dill",
+      "amount": 20,
+      "id": 12883
+    }, {
+      "name": "Sesame Seeds",
+      "amount": 22,
+      "id": 12887
+    }, {
+      "name": "Highland Oregano",
+      "amount": 1,
+      "id": 12971
+    }, {
+      "name": "Clary Sage",
+      "amount": 1,
+      "id": 12973
+    }, {
+      "name": "Lover's Laurel",
+      "amount": 4,
+      "id": 15948
+    }, {
+      "name": "Cumin Seeds",
+      "amount": 1,
+      "id": 19864
+    }, {
+      "name": "Table Salt ",
+      "amount": 27,
+      "id": 4847
+    }, {
+      "name": "Table Salt",
+      "amount": 11,
+      "id": 4847
+    }, {
+      "name": "Maple Sugar",
+      "amount": 89,
+      "id": 4848
+    }, {
+      "name": "Maple Syrup ",
+      "amount": 5,
+      "id": 4849
+    }, {
+      "name": "Honey",
+      "amount": 64,
+      "id": 4850
+    }, {
+      "name": "Sweet Cream",
+      "amount": 28,
+      "id": 4852
+    }, {
+      "name": "Smooth Butter",
+      "amount": 26,
+      "id": 4853
+    }, {
+      "name": "Kukuru Butter ",
+      "amount": 1,
+      "id": 4854
+    }, {
+      "name": "Kukuru Butter",
+      "amount": 20,
+      "id": 4854
+    }, {
+      "name": "Kukuru Powder",
+      "amount": 7,
+      "id": 4855
+    }, {
+      "name": "Clove Oil",
+      "amount": 25,
+      "id": 4856
+    }, {
+      "name": "Olive Oil",
+      "amount": 4,
+      "id": 4857
+    }, {
+      "name": "Lavender Oil ",
+      "amount": 2,
+      "id": 4858
+    }, {
+      "name": "Cider Vinegar ",
+      "amount": 3,
+      "id": 4859
+    }, {
+      "name": "Dark Vinegar ",
+      "amount": 3,
+      "id": 4860
+    }, {
+      "name": "Pie Dough ",
+      "amount": 2,
+      "id": 4861
+    }, {
+      "name": "Sour Red",
+      "amount": 23,
+      "id": 4862
+    }, {
+      "name": "Gelatin ",
+      "amount": 8,
+      "id": 4863
+    }, {
+      "name": "Tomato Sauce",
+      "amount": 63,
+      "id": 4865
+    }, {
+      "name": "Chicken Stock ",
+      "amount": 26,
+      "id": 4867
+    }, {
+      "name": "Chicken Stock",
+      "amount": 4,
+      "id": 4867
+    }, {
+      "name": "Cooking Sherry",
+      "amount": 46,
+      "id": 6151
+    }, {
+      "name": "Birch Sap",
+      "amount": 53,
+      "id": 12891
+    }, {
+      "name": "Lava Toad",
+      "amount": 10,
+      "id": 5055
+    }]
+}]

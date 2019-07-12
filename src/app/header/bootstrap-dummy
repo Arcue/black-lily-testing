@@ -1,0 +1,46 @@
+<div class="row justify-content-md-center">
+  <div class="col-xs-10">header works!</div>
+</div>
+<div class="row justify-content-md-center">
+  <div class="col-xs-10">
+    <div class="btn-group" dropdown>
+      <button class="btn btn-secondary dropdown-toggle" dropdownToggle type="button" id="dropdownFFMenuButton" data-toggle="dropdown" aria-controls="basic">
+        FFXIV <span class="caret"></span>
+      </button>
+      <ul id="ffDropddown" *dropdownMenu class="dropdown-menu"
+        role="menu" aria-labelledby="dropdownFFMenuButton">
+        <li role="menuitem"><a class="dropdown-item" href="#">Character</a></li>
+        <li role="menuitem"><a class="dropdown-item" href="#">Retainers</a></li>
+        <li role="menuitem"><a class="dropdown-item" href="#">Achievments</a></li>
+        <li role="menuitem"><a class="dropdown-item" href="#">Mounts</a></li>
+        <li role="menuitem"><a class="dropdown-item" href="#">Minions</a></li>
+      </ul>
+    </div>
+    <div class="btn-group" dropdown>
+      <button class="btn btn-secondary dropdown-toggle" dropdownToggle type="button" id="dropdownFFMenuButton" data-toggle="dropdown" aria-controls="basic">
+        FFXIV <span class="caret"></span>
+      </button>
+      <ul id="ffDropddown" *dropdownMenu class="dropdown-menu"
+        role="menu" aria-labelledby="dropdownFFMenuButton">
+        <li role="menuitem"><a class="dropdown-item" href="#">Character</a></li>
+        <li role="menuitem"><a class="dropdown-item" href="#">Retainers</a></li>
+        <li role="menuitem"><a class="dropdown-item" href="#">Achievments</a></li>
+        <li role="menuitem"><a class="dropdown-item" href="#">Mounts</a></li>
+        <li role="menuitem"><a class="dropdown-item" href="#">Minions</a></li>
+      </ul>
+    </div>
+    <div class="btn-group" dropdown>
+      <button class="btn btn-secondary dropdown-toggle" dropdownToggle type="button" id="dropdownFFMenuButton" data-toggle="dropdown" aria-controls="basic">
+        FFXIV <span class="caret"></span>
+      </button>
+      <ul id="ffDropddown" *dropdownMenu class="dropdown-menu"
+        role="menu" aria-labelledby="dropdownFFMenuButton">
+        <li role="menuitem"><a class="dropdown-item" href="#">Character</a></li>
+        <li role="menuitem"><a class="dropdown-item" href="#">Retainers</a></li>
+        <li role="menuitem"><a class="dropdown-item" href="#">Achievments</a></li>
+        <li role="menuitem"><a class="dropdown-item" href="#">Mounts</a></li>
+        <li role="menuitem"><a class="dropdown-item" href="#">Minions</a></li>
+      </ul>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,528 @@
+[{
+  "retainerName": "Sonobe",
+  "retainerInventory": [{
+    "name": "Blunt Goblin Scimitar",
+    "amount": 1,
+    "id": 1613
+  }, {
+    "name": "Blunt Bastard Sword",
+    "amount": 1,
+    "id": 1606
+  }, {
+    "name": "Rusting Scutum",
+    "amount": 1,
+    "id": 2232
+  }, {
+    "name": "Alexandrian Visor of Fending",
+    "amount": 1,
+    "id": 16479
+  }, {
+    "name": "Alexandrian Circlet of Aiming",
+    "amount": 1,
+    "id": 16497
+  }, {
+    "name": "Prototype Alexandrian Hood of Healing",
+    "amount": 1,
+    "id": 16433
+  }, {
+    "name": "Prototype Midan Headband of Fending",
+    "amount": 1,
+    "id": 14512
+  }, {
+    "name": "Chaos Burgeonet",
+    "amount": 1,
+    "id": 11809
+  }, {
+    "name": "Antiquated Aoidos' Turban",
+    "amount": 1,
+    "id": 10200
+  }, {
+    "name": "Antiquated Goetia Tricorne",
+    "amount": 1,
+    "id": 10210
+  }, {
+    "name": "Antiquated Orison Hood",
+    "amount": 1,
+    "id": 10205
+  }, {
+    "name": "Prototype Gordian Crown of Casting",
+    "amount": 1,
+    "id": 11454
+  }, {
+    "name": "Yasha Hachigane of Striking",
+    "amount": 1,
+    "id": 11602
+  }, {
+    "name": "Yasha Hachigane of Casting",
+    "amount": 1,
+    "id": 11606
+  }, {
+    "name": "Kabuto #55",
+    "amount": 1,
+    "id": 20596
+  }, {
+    "name": "Demon Helm of Fending",
+    "amount": 1,
+    "id": 9901
+  }, {
+    "name": "Daystar Circlet",
+    "amount": 1,
+    "id": 7330
+  }, {
+    "name": "The Guardian's Helm of Striking",
+    "amount": 1,
+    "id": 8316
+  }, {
+    "name": "Varlet's Sallet",
+    "amount": 1,
+    "id": 9943
+  }, {
+    "name": "Picaroon's Headgear of Maiming",
+    "amount": 1,
+    "id": 9949
+  }, {
+    "name": "Melee Circlet",
+    "amount": 1,
+    "id": 6059
+  }, {
+    "name": "Koga Hatsuburi",
+    "amount": 1,
+    "id": 7953
+  }, {
+    "name": "Royal Crown",
+    "amount": 1,
+    "id": 2954
+  }, {
+    "name": "Helm of the Divine War",
+    "amount": 1,
+    "id": 8224
+  }, {
+    "name": "Shikaree's Mask",
+    "amount": 1,
+    "id": 7462
+  }, {
+    "name": "Darklight Eyepatch of Aiming",
+    "amount": 1,
+    "id": 2937
+  }, {
+    "name": "Wolf Cavalier's Hat ",
+    "amount": 1,
+    "id": 6753
+  }, {
+    "name": "Hamlet Cutter's Hat ",
+    "amount": 1,
+    "id": 2929
+  }, {
+    "name": "Serpent Sergeant's Beret",
+    "amount": 1,
+    "id": 2841
+  }, {
+    "name": "Harlequin's Cap",
+    "amount": 1,
+    "id": 2906
+  }, {
+    "name": "Serpent Private's Coif",
+    "amount": 1,
+    "id": 2760
+  }, {
+    "name": "Doctore's Chain Coif",
+    "amount": 1,
+    "id": 2721
+  }, {
+    "name": "Initiate's Headgear ",
+    "amount": 1,
+    "id": 2714
+  }, {
+    "name": "Ash Mask",
+    "amount": 1,
+    "id": 2675
+  }, {
+    "name": "Plundered Cavalier's Hat",
+    "amount": 1,
+    "id": 2679
+  }, {
+    "name": "Plundered Goggles",
+    "amount": 1,
+    "id": 2683
+  }, {
+    "name": "Stablehand's Hat",
+    "amount": 1,
+    "id": 2666
+  }, {
+    "name": "Stablemaid's Hat ",
+    "amount": 1,
+    "id": 2663
+  }, {
+    "name": "Monoa Mask",
+    "amount": 1,
+    "id": 2651
+  }, {
+    "name": "Skallic Coat of Maiming",
+    "amount": 1,
+    "id": 20826
+  }, {
+    "name": "Arhat Dogi of Casting",
+    "amount": 1,
+    "id": 18866
+  }, {
+    "name": "Augmented Shire Conservator's Coat",
+    "amount": 1,
+    "id": 16360
+  }, {
+    "name": "Augmented Hellfire Armor of Fending",
+    "amount": 1,
+    "id": 14409
+  }, {
+    "name": "Valkyrie's Coat of Healing",
+    "amount": 1,
+    "id": 16220
+  }, {
+    "name": "Chaos Cuirass",
+    "amount": 1,
+    "id": 11810
+  }, {
+    "name": "Void Ark Robe of Casting",
+    "amount": 1,
+    "id": 13156
+  }, {
+    "name": "Antiquated Aoidos' Cloak",
+    "amount": 1,
+    "id": 10201
+  }, {
+    "name": "Antiquated Caller's Himation",
+    "amount": 1,
+    "id": 10216
+  }, {
+    "name": "Dravanian Tunic of Striking",
+    "amount": 1,
+    "id": 14663
+  }, {
+    "name": "Asuran Hara-ate of Fending",
+    "amount": 1,
+    "id": 11683
+  }, {
+    "name": "Yasha Togi of Striking",
+    "amount": 1,
+    "id": 11609
+  }, {
+    "name": "Yasha Dogi of Casting",
+    "amount": 1,
+    "id": 11613
+  }, {
+    "name": "Valerian Terror Knight's Plate Mail",
+    "amount": 1,
+    "id": 11385
+  }, {
+    "name": "Valerian Smuggler's Gilet",
+    "amount": 1,
+    "id": 11387
+  }, {
+    "name": "Uwagi #55",
+    "amount": 1,
+    "id": 20597
+  }, {
+    "name": "Halonic Inquisitor's Cuirass",
+    "amount": 1,
+    "id": 11273
+  }, {
+    "name": "Orthodox Coat of Fending",
+    "amount": 1,
+    "id": 11217
+  }, {
+    "name": "Orthodox Tunic of Striking",
+    "amount": 1,
+    "id": 11219
+  }, {
+    "name": "Orthodox Tunic of Aiming",
+    "amount": 1,
+    "id": 11220
+  }, {
+    "name": "Woad Skyraider's Fur",
+    "amount": 1,
+    "id": 11161
+  }, {
+    "name": "Demon Armor of Fending",
+    "amount": 1,
+    "id": 9902
+  }, {
+    "name": "Phlegethon's Cuirass",
+    "amount": 1,
+    "id": 8305
+  }, {
+    "name": "Weathered Auroral Tabard",
+    "amount": 1,
+    "id": 7255
+  }, {
+    "name": "Varlet's Hauberk",
+    "amount": 1,
+    "id": 9944
+  }, {
+    "name": "Bogatyr's Longcoat of Aiming",
+    "amount": 1,
+    "id": 9962
+  }, {
+    "name": "Bogatyr's Longcoat of Healing",
+    "amount": 1,
+    "id": 9974
+  }, {
+    "name": "Allagan Cuirass of Aiming",
+    "amount": 1,
+    "id": 3264
+  }, {
+    "name": "Cuirass of the Divine War",
+    "amount": 1,
+    "id": 8225
+  }, {
+    "name": "Shirt of the Divine Hero",
+    "amount": 1,
+    "id": 8237
+  }, {
+    "name": "Hussar's Jackcoat",
+    "amount": 1,
+    "id": 7451
+  }, {
+    "name": "Magician's Robe",
+    "amount": 1,
+    "id": 7475
+  }, {
+    "name": "Austere Cowl",
+    "amount": 1,
+    "id": 6713
+  }, {
+    "name": "Hetairos Mail",
+    "amount": 1,
+    "id": 3195
+  }, {
+    "name": "Raptorskin Harness",
+    "amount": 1,
+    "id": 3191
+  }, {
+    "name": "Coliseum Galerus",
+    "amount": 1,
+    "id": 3189
+  }, {
+    "name": "Serpent Sergeant's Tunic",
+    "amount": 1,
+    "id": 3151
+  }, {
+    "name": "Aetherial Mythril Cuirass",
+    "amount": 1,
+    "id": 3150
+  }, {
+    "name": "Eternal Shade",
+    "amount": 1,
+    "id": 3093
+  }, {
+    "name": "Initiate's Gown",
+    "amount": 1,
+    "id": 3065
+  }, {
+    "name": "Foestriker's Tabard",
+    "amount": 1,
+    "id": 3034
+  }, {
+    "name": "Acolyte's Robe",
+    "amount": 1,
+    "id": 3035
+  }, {
+    "name": "Arhat Tekko of Scouting",
+    "amount": 1,
+    "id": 18855
+  }, {
+    "name": "Valerian Archer's Gloves",
+    "amount": 1,
+    "id": 18771
+  }, {
+    "name": "Gyuki Leather Gloves of Aiming ",
+    "amount": 1,
+    "id": 18225
+  }, {
+    "name": "Diabolic Gloves of Striking",
+    "amount": 1,
+    "id": 17357
+  }, {
+    "name": "Prototype Alexandrian Gauntlets of Fending",
+    "amount": 1,
+    "id": 16405
+  }, {
+    "name": "Filibuster's Fingerless Gloves of Aiming",
+    "amount": 1,
+    "id": 17405
+  }, {
+    "name": "Hellfire Gauntlets of Fending",
+    "amount": 1,
+    "id": 14340
+  }, {
+    "name": "Valkyrie's Gloves of Fending",
+    "amount": 1,
+    "id": 16191
+  }, {
+    "name": "Prototype Gordian Gauntlets of Fending",
+    "amount": 1,
+    "id": 11462
+  }, {
+    "name": "Gloves of the Defiant Duelist",
+    "amount": 1,
+    "id": 13163
+  }, {
+    "name": "Yasha Tekko of Striking",
+    "amount": 1,
+    "id": 11616
+  }, {
+    "name": "Tekko #55",
+    "amount": 1,
+    "id": 20598
+  }, {
+    "name": "Augmented Ironworks Vambraces of Aiming",
+    "amount": 1,
+    "id": 8904
+  }, {
+    "name": "Varlet's Gauntlets",
+    "amount": 1,
+    "id": 9945
+  }, {
+    "name": "Bogatyr's Gloves of Aiming",
+    "amount": 1,
+    "id": 9963
+  }, {
+    "name": "Bogatyr's Gloves of Healing",
+    "amount": 1,
+    "id": 9975
+  }, {
+    "name": "Melee Gloves",
+    "amount": 1,
+    "id": 6061
+  }, {
+    "name": "Koga Tekko",
+    "amount": 1,
+    "id": 7956
+  }, {
+    "name": "Darklight Gauntlets",
+    "amount": 1,
+    "id": 3718
+  }, {
+    "name": "Darklight Bracers of Aiming",
+    "amount": 1,
+    "id": 3720
+  }, {
+    "name": "Darklight Gloves of Healing",
+    "amount": 1,
+    "id": 3722
+  }, {
+    "name": "Battlemage's Gloves",
+    "amount": 1,
+    "id": 3609
+  }, {
+    "name": "Acolyte's Halfgloves",
+    "amount": 1,
+    "id": 3555
+  }, {
+    "name": "Ruby Tide Earrings of Fending",
+    "amount": 1,
+    "id": 18325
+  }, {
+    "name": "Prototype Gordian Earrings of Casting",
+    "amount": 1,
+    "id": 11494
+  }, {
+    "name": "Yasha Earring of Casting",
+    "amount": 1,
+    "id": 11646
+  }, {
+    "name": "Bogatyr's Earrings of Casting",
+    "amount": 1,
+    "id": 10002
+  }, {
+    "name": "Ardent Necklace of Fending",
+    "amount": 1,
+    "id": 11750
+  }, {
+    "name": "Aurum Regis Necklace of Casting ",
+    "amount": 1,
+    "id": 11064
+  }, {
+    "name": "Woad Skywarrior's Choker",
+    "amount": 1,
+    "id": 12380
+  }, {
+    "name": "Allagan Choker of Aiming",
+    "amount": 1,
+    "id": 4392
+  }, {
+    "name": "Koppranickel Bracelet of Healing ",
+    "amount": 1,
+    "id": 18260
+  }, {
+    "name": "Prototype Alexandrian Bracelets of Fending",
+    "amount": 1,
+    "id": 16455
+  }, {
+    "name": "Gordian Wristband of Fending",
+    "amount": 1,
+    "id": 11576
+  }, {
+    "name": "Prototype Gordian Wristband of Casting",
+    "amount": 1,
+    "id": 11504
+  }, {
+    "name": "Noct Wristlets",
+    "amount": 1,
+    "id": 7300
+  }, {
+    "name": "Auroral Wristlets",
+    "amount": 1,
+    "id": 7326
+  }, {
+    "name": "Darklight Bracelet of Maiming",
+    "amount": 1,
+    "id": 4179
+  }, {
+    "name": "Toxotes Wristlets",
+    "amount": 1,
+    "id": 7050
+  }, {
+    "name": "Militia Bracelets ",
+    "amount": 1,
+    "id": 4172
+  }, {
+    "name": "Augmented Lost Allagan Ring of Fending",
+    "amount": 1,
+    "id": 19354
+  }, {
+    "name": "Ruby Tide Ring of Fending",
+    "amount": 1,
+    "id": 18340
+  }, {
+    "name": "Ghost Barque Ring of Healing",
+    "amount": 1,
+    "id": 18187
+  }, {
+    "name": "Prototype Midan Ring of Fending",
+    "amount": 1,
+    "id": 14569
+  }, {
+    "name": "Dravanian Ring of Casting",
+    "amount": 1,
+    "id": 14711
+  }, {
+    "name": "Prototype Gordian Ring of Casting",
+    "amount": 1,
+    "id": 11509
+  }, {
+    "name": "Orthodox Ring of Fending",
+    "amount": 1,
+    "id": 12399
+  }, {
+    "name": "Eternity Ring",
+    "amount": 1,
+    "id": 8575
+  }, {
+    "name": "Retainer Fantasia",
+    "amount": 1,
+    "id": 8841
+  }, {
+    "name": "Bloody Knife Blades",
+    "amount": 1,
+    "id": 9374
+  }]
+}]

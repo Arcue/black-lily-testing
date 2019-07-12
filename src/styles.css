@@ -1,1 +1,38 @@
+
 /* You can add global styles to this file, and also import other style files */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  color: Lavender;
+  background: indigo;
+  margin: 0;
+}
+
+.root{
+  display: grid;
+  height: 100vh;
+  grid-template-rows: 135px 1fr 75px;
+  align-items: center;
+}
+
+.content-container{
+  display: grid;
+  margin: auto;
+  height: 100%;
+  background: black;
+  width: 90%;
+  grid-template-columns: 1fr 2.75fr;
+  grid-template-areas: "left-column right-column";
+  border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+  box-shadow: 0 0.15rem 0.25rem 0 rgba(0,0,0, 75);
+}
+
+.container {
+  display: grid;
+  grid-template-columns: 100%;
+  justify-items: center;
+}
+
+.container-item {
+  grid-template-columns: 85%
+}

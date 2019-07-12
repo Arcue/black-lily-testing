@@ -1,0 +1,15 @@
+<div class="container">
+  <div>
+<h1><a [routerLink]="['/main']">Black Lily Gaming</a></h1>
+  </div>
+  <div class="dropdown-parent">
+    <div class="dropdown-wrapper" (clickOutside)="this.closeMenu()">
+      <div class="dropdown" *ngFor="let menuItem of menuArray; let i = index">
+        <button (click)="this.menuToggle(i)" class="dropbtn">{{ menuItem.title }}</button>
+        <div class="dropdown-content" *ngIf="dropItem===i">
+          <div *ngFor="let item of menuItem.subItem"><a [routerLink]=item.link>{{ item.subTitle }}</a></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
