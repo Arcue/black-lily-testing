@@ -1,6 +1,11 @@
 .left-column {
   grid-area: left-column;
 }
+.grid-divider {
+  border-right: 1.5px;
+  border-right-style: solid;
+  border-right-color: indigo;
+}
 
 .right-column {
   grid-area: right-column;

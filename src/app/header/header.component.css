@@ -3,9 +3,6 @@
   top: 0;
   left: 0;
   right: 0;
-  width: 90%;
-  margin: 0 auto;
-  background: rgb(0, 0, 0);
   border-radius: 0 0 0.5rem 0.5rem;
   box-shadow: 0 0.15rem 0.25rem 0 rgba(0,0,0, 75);
 }
@@ -22,7 +19,10 @@ h1 a {
   font-size: 1rem;
   border: none;
   cursor: pointer;
-  background-color: rgb(30, 30, 30);
+  background-color: rgb(35, 35, 35);
+  border-top: 1px;
+  border-top-style: solid;
+  border-top-color: indigo;
 }
 
 .dropbtn:hover, .dropbtn:focus {background-color: darkviolet;}
@@ -31,8 +31,11 @@ h1 a {
 .dropdown-parent {
   width: 100%;
   text-align: center;
-  background-color: rgb(30, 30, 30);
+  background-color: rgb(35, 35, 35);
   border-radius: 0 0 5px 5px;
+  border-top: 1.5px;
+  border-top-style: solid;
+  border-top-color: indigo;
 }
 
 .dropdown-wrapper {

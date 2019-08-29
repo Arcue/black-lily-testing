@@ -4,7 +4,7 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   color: Lavender;
-  background: indigo;
+  background: rgb(45, 2, 77);
   margin: 0;
 }
 
@@ -19,7 +19,7 @@ body {
   display: grid;
   margin: auto;
   height: 100%;
-  background: black;
+  background: #1e1e1e;
   width: 90%;
   grid-template-columns: 1fr 2.75fr;
   grid-template-areas: "left-column right-column";
@@ -28,7 +28,10 @@ body {
 }
 
 .container {
+  width:100%;
+  background: #1e1e1e;
   display: grid;
+  margin: 0;
   grid-template-columns: 100%;
   justify-items: center;
 }

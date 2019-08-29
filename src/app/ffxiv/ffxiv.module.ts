@@ -11,8 +11,14 @@ const appRoutes: Routes = [
   {
     path: '',  component: FfxivComponent
   },
-  { path: 'retainer', component: FfxivRetainerComponent}
-];
+  {
+    path: 'retainer',
+    component: FfxivRetainerComponent,
+  },
+  {
+      path: 'retainer/:uRetainer',
+      component: FfxivRetainerComponent
+  }];
 
 @NgModule({
   declarations: [
