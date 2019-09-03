@@ -1,4 +1,4 @@
-<div *ngIf="cRetainer; else elseBlock">
+<div *ngIf="(cRetainer || uRetainer); else elseBlock">
   <p>{{ content.retainerName }}</p>
   <ul>
     <cdk-virtual-scroll-viewport itemSize="35">

@@ -25,8 +25,7 @@ content: object;
    }
 
   ngOnInit() {
-    this.router.params.subscribe(params => console.log(params));
-
+    this.router.params.subscribe( params =>  this.showContent(params));
   }
 
   ngOnChanges(changes: SimpleChanges): void {
@@ -34,10 +33,10 @@ content: object;
     // Add '${implements OnChanges}' to the class.
     if(this.cRetainer)
     {
-      this.showCotent(this.cRetainer);
+      this.showContent(this.cRetainer);
     }
   }
-  public showCotent(retainer) {
+  public showContent(retainer) {
     this.content = this.retainers.find( obj => obj.retainerName === retainer);
   }
 }
