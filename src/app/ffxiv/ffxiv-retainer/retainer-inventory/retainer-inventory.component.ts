@@ -6,8 +6,10 @@ import Arcue from '@assets/arcue.json';
 import Sonobe from '@assets/sonobe.json';
 import Balladrack from '@assets/balladrack.json';
 import Scahrossar from '@assets/scahrossar.json';
-import { RouterLinkActive, RouterLink, RouterState, ActivatedRoute, UrlTree, UrlSegmentGroup, PRIMARY_OUTLET, UrlSegment } from '@angular/router';
+import { RouterLinkActive, RouterLink, RouterState, ActivatedRoute, UrlTree, UrlSegmentGroup, PRIMARY_OUTLET, UrlSegment, Params } from '@angular/router';
 import { Location } from '@angular/common';
+
+import { map } from "rxjs/operators";
 
 @Component({
   selector: 'app-retainer-inventory',
@@ -21,11 +23,11 @@ export class RetainerInventoryComponent implements OnInit {
 retainers = Arcu.concat(Mairae, Aurila, Arcue, Sonobe, Balladrack, Scahrossar);
 content: object;
 
-  constructor(private router: ActivatedRoute) {
+  constructor(private route: ActivatedRoute) {
    }
 
   ngOnInit() {
-    this.router.params.subscribe( params =>  this.showContent(params));
+    this.route.params.subscribe( (params: Params) =>  this.showContent(params.uRetainer));
   }
 
   ngOnChanges(changes: SimpleChanges): void {
