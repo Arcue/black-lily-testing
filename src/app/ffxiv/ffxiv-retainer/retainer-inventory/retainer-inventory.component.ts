@@ -7,9 +7,7 @@ import Sonobe from '@assets/sonobe.json';
 import Balladrack from '@assets/balladrack.json';
 import Scahrossar from '@assets/scahrossar.json';
 import { RouterLinkActive, RouterLink, RouterState, ActivatedRoute, UrlTree, UrlSegmentGroup, PRIMARY_OUTLET, UrlSegment, Params } from '@angular/router';
-import { Location } from '@angular/common';
 
-import { map } from "rxjs/operators";
 
 @Component({
   selector: 'app-retainer-inventory',
