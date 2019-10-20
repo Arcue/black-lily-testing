@@ -25,6 +25,9 @@ const appRoutes: Routes = [
     { path: 'ffxiv/retainer', loadChildren: () =>
     import('./ffxiv/ffxiv.module')
     .then(mod => mod.FfxivModule)},
+    { path: 'poe', loadChildren: () =>
+    import('./poe/poe.module')
+    .then(mod => mod.PoeModule)},
   { path: '**', component: PageNotFoundComponent }
 ];
 
