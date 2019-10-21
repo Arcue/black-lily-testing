@@ -1,0 +1,13 @@
+.viewport {
+    height: 55vh;
+    min-width: 26rem;
+    background: rgb(45, 2, 77);
+    margin: 2em 8em 8em;
+    padding: .5rem;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    box-shadow: 0 0.15rem 0.25rem 0 rgba(0,0,0, 75);
+  }
+  
+  .viewport li {
+    height: 7.5rem;
+ }

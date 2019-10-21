@@ -1,0 +1,15 @@
+<div class="centered-content-container">
+    <div class="centered-column">
+        <h2>Path of Exile resources:</h2>
+        <ul>
+            <cdk-virtual-scroll-viewport itemSize="55" class="viewport">
+                <li *cdkVirtualFor="let resource of resources">
+                    <h3><a class="button-link" href="{{resource.externalLink}}" target="_blank" rel="noreferrer noopener">{{ resource.title }}</a></h3>
+                    <div class="info-box">
+                        <p>{{ resource.description }}</p>
+                    </div>
+                </li>
+            </cdk-virtual-scroll-viewport>
+        </ul>
+    </div>
+</div>

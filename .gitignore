@@ -1,3 +1,5 @@
 CPU.20191008.195257.61385.0.001.cpuprofile
 node_modules
 src/assets
+dist
+.firebase

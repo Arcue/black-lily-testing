@@ -5,7 +5,6 @@ import { ScrollingModule, ScrollDispatchModule } from '@angular/cdk/scrolling';
 import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { MainComponent } from './main/main.component';
-import { PoeComponent } from './poe/poe.component';
 import { WarframeComponent } from './warframe/warframe.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
@@ -28,6 +27,9 @@ const appRoutes: Routes = [
     { path: 'poe', loadChildren: () =>
     import('./poe/poe.module')
     .then(mod => mod.PoeModule)},
+    { path: 'poe/resources', loadChildren: () =>
+    import('./poe/poe.module')
+    .then(mod => mod.PoeModule)},
   { path: '**', component: PageNotFoundComponent }
 ];
 
@@ -36,7 +38,6 @@ const appRoutes: Routes = [
     AppComponent,
     HeaderComponent,
     MainComponent,
-    PoeComponent,
     WarframeComponent,
     PageNotFoundComponent,
     FooterLegalComponent,
