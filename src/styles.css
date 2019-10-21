@@ -82,6 +82,10 @@ body {
   padding: .5rem;
   margin: -.5rem auto 0;
 }
+
+.button-link:hover {
+  background-color: indigo;
+}
 .info-box {
   background-color: #1e1e1e;
   border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
