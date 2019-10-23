@@ -30,6 +30,9 @@ const appRoutes: Routes = [
     { path: 'poe/resources', loadChildren: () =>
     import('./poe/poe.module')
     .then(mod => mod.PoeModule)},
+    { path: 'poe/characters', loadChildren: () =>
+     import('./poe/poe.module')
+     .then(m => m.PoeModule) },
   { path: '**', component: PageNotFoundComponent }
 ];
 

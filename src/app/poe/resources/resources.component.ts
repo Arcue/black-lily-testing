@@ -6,7 +6,7 @@ import PoeResources from '@assets/poeresources.json';
   templateUrl: './resources.component.html',
   styleUrls: ['./resources.component.css']
 })
-export class ResourcesComponent implements OnInit {
+export class PoeResourcesComponent implements OnInit {
 resources = PoeResources;
   constructor() { }
 

@@ -4,7 +4,7 @@
         <ul>
             <cdk-virtual-scroll-viewport itemSize="55" class="viewport">
                 <li *cdkVirtualFor="let resource of resources">
-                    <h3><a class="button-link" href="{{resource.externalLink}}" target="_blank" rel="noreferrer noopener">{{ resource.title }}</a></h3>
+                    <h3><a class="button-link" href="{{resource.externalLink}}" target="_blank" rel="noreferrer noopener"><i class="fas fa-external-link-alt"></i>{{ resource.title }}</a></h3>
                     <div class="info-box">
                         <p>{{ resource.description }}</p>
                     </div>

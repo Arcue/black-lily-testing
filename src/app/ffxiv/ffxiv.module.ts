@@ -9,11 +9,12 @@ import { ScrollingModule } from '@angular/cdk/scrolling';
 
 const appRoutes: Routes = [
   {
-    path: '',  component: FfxivComponent
+    path: '',
+    component: FfxivComponent
   },
   {
     path: 'retainer',
-    component: FfxivRetainerComponent,
+    component: FfxivRetainerComponent
   },
   {
       path: 'retainer/:uRetainer',

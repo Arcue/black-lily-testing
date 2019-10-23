@@ -3,19 +3,30 @@ import { CommonModule } from '@angular/common';
 import { RouterModule, Routes } from '@angular/router';
 import { ScrollingModule } from '@angular/cdk/scrolling';
 import { PoeComponent } from './poe.component';
-import { ResourcesComponent } from './resources/resources.component';
+import { PoeResourcesComponent } from './resources/resources.component';
+import { PoeCharactersComponent } from './characters/characters.component';
 
 const appRoutes: Routes = [
   {
-    path: '',  component: PoeComponent
+    path: '',
+    component: PoeComponent
   }, {
-    path: 'resources',  component: ResourcesComponent
-  }];
+    path: 'resources',
+    component: PoeResourcesComponent
+  }, {
+    path: 'characters',
+    component: PoeCharactersComponent
+  }, {
+    path: 'characters/:uPoeCharacter',
+    component: PoeCharactersComponent
+  }
+];
 
 @NgModule({
   declarations: [
     PoeComponent,
-    ResourcesComponent
+    PoeResourcesComponent,
+    PoeCharactersComponent
   ],
   imports: [
     RouterModule.forChild(

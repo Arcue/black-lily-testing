@@ -1,0 +1,4 @@
+{
+    "gitlens.currentLine.format": "${agoOrDate} • ${message}",
+    "workbench.settings.editor": "json"
+}
