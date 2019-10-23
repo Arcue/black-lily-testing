@@ -5,6 +5,7 @@ import { ScrollingModule } from '@angular/cdk/scrolling';
 import { PoeComponent } from './poe.component';
 import { PoeResourcesComponent } from './resources/resources.component';
 import { PoeCharactersComponent } from './characters/characters.component';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 const appRoutes: Routes = [
   {
@@ -33,6 +34,7 @@ const appRoutes: Routes = [
       appRoutes,
     ),
     ScrollingModule,
+    FontAwesomeModule,
     CommonModule
   ]
 })

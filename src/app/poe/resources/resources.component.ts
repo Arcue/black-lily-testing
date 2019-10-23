@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import PoeResources from '@assets/poeresources.json';
+import { faExternalLinkAlt } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-resources',
@@ -8,6 +9,7 @@ import PoeResources from '@assets/poeresources.json';
 })
 export class PoeResourcesComponent implements OnInit {
 resources = PoeResources;
+faExternalLinkAlt = faExternalLinkAlt;
   constructor() { }
 
   ngOnInit() {

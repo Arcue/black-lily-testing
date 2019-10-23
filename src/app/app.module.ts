@@ -10,6 +10,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { PageNotFoundComponent } from './page-not-found/page-not-found.component';
 import { FooterLegalComponent } from './footer-legal/footer-legal.component';
 import { ClickOutsideDirective } from './click-outside.directive';
+import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 const appRoutes: Routes = [
   {
@@ -50,7 +51,7 @@ const appRoutes: Routes = [
     RouterModule.forRoot(appRoutes),
     BrowserModule,
     ScrollingModule,
-    ScrollDispatchModule,
+    FontAwesomeModule,
     BrowserAnimationsModule
   ],
   exports: [
@@ -59,4 +60,4 @@ const appRoutes: Routes = [
   providers: [],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule {}
