@@ -3,7 +3,7 @@ import { Component, OnInit, OnChanges, SimpleChanges } from '@angular/core';
 @Component({
   selector: 'app-ffxiv-retainer',
   templateUrl: './ffxiv-retainer.component.html',
-  styleUrls: ['./ffxiv-retainer.component.css']
+  styleUrls: ['./ffxiv-retainer.component.scss']
 })
 export class FfxivRetainerComponent implements OnInit, OnChanges {
 currentRetainer: string;

@@ -4,7 +4,7 @@ import { Location } from '@angular/common';
 @Component({
   selector: 'app-retainer-list',
   templateUrl: './retainer-list.component.html',
-  styleUrls: ['./retainer-list.component.css']
+  styleUrls: ['./retainer-list.component.scss']
 })
 export class RetainerListComponent implements OnInit {
   @Output() selectedRetainer = new EventEmitter<string>();

@@ -12,7 +12,7 @@ import { RouterLinkActive, RouterLink, RouterState, ActivatedRoute, UrlTree, Url
 @Component({
   selector: 'app-retainer-inventory',
   templateUrl: './retainer-inventory.component.html',
-  styleUrls: ['./retainer-inventory.component.css'],
+  styleUrls: ['./retainer-inventory.component.scss'],
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class RetainerInventoryComponent implements OnInit {
