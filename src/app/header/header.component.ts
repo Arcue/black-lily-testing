@@ -9,7 +9,7 @@ import navbar from '@assets/navbar.json';
 export class HeaderComponent implements OnInit {
   dropItem: number = -1;
   menuArray = navbar;
-  menuToggle(index) {
+  menuToggle(index: number) {
     if (this.dropItem === index){
       this.dropItem = -1;
     } else {
