@@ -86,6 +86,9 @@ body {
 .button-link:hover {
   background-color: indigo;
 }
+.button-link:focus {
+  outline: 1px solid indigo;
+}
 .info-box {
   background-color: #1e1e1e;
   border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
