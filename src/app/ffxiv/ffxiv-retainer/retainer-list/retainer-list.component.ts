@@ -8,12 +8,15 @@ import { Location } from '@angular/common';
 })
 export class RetainerListComponent implements OnInit {
   @Output() selectedRetainer = new EventEmitter<string>();
-  retainers = ["Arcu", "Mairae", "Aurila", "Arcue", "Sonobe", "Balladrack", "Scahrossar"]
+  retainers = ['Arcu', 'Mairae', 'Aurila', 'Arcue', 'Sonobe', 'Balladrack', 'Scahrossar']
   retainerSelected(item) {
     this.selectedRetainer.emit(item);
     this.location.replaceState('/ffxiv/retainer/' + item);
     console.log(item);
   }
+
+
+
   constructor(private location: Location) { }
 
   ngOnInit() {

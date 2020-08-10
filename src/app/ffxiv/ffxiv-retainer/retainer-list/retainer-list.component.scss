@@ -27,7 +27,7 @@ button {
   border-left: none;
 }
 
-button:focus {
+button:focus, button:active {
   background-color: indigo;
   outline: none;
 }

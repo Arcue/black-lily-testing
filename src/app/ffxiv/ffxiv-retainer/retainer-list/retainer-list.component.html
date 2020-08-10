@@ -2,7 +2,7 @@
   <h2>My retainers:</h2>
   <ul>
     <cdk-virtual-scroll-viewport itemSize="55">
-      <li *cdkVirtualFor="let retainer of retainers"><button (click)="retainerSelected(retainer)">{{ retainer }}</button><span>test</span></li>
+      <li *cdkVirtualFor="let retainer of retainers"><button [ngClass]="{'active': selectedRetainer === retainer}" (click)="retainerSelected(retainer)">{{ retainer }}</button><span>test</span></li>
     </cdk-virtual-scroll-viewport>
   </ul>
 </section>
