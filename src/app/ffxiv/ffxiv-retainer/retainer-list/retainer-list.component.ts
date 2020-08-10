@@ -7,12 +7,13 @@ import { Location } from '@angular/common';
   styleUrls: ['./retainer-list.component.scss']
 })
 export class RetainerListComponent implements OnInit {
+  currentRetainer = '';
   @Output() selectedRetainer = new EventEmitter<string>();
   retainers = ['Arcu', 'Mairae', 'Aurila', 'Arcue', 'Sonobe', 'Balladrack', 'Scahrossar']
   retainerSelected(item) {
     this.selectedRetainer.emit(item);
     this.location.replaceState('/ffxiv/retainer/' + item);
-    console.log(item);
+    this.currentRetainer = item;
   }
 
 
