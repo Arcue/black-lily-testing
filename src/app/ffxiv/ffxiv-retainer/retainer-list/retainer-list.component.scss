@@ -26,6 +26,11 @@ button {
   border-color: indigo;
   border-left: none;
 }
+
+button:focus {
+  background-color: indigo;
+  outline: none;
+}
 span {
   color: lavender;
   padding: 1rem;
