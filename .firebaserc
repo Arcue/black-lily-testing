@@ -1,5 +1,14 @@
 {
   "projects": {
     "default": "black-lily-gaming"
+  },
+  "targets": {
+    "black-lily-gaming": {
+      "hosting": {
+        "Black-Lily-Gaming": [
+          "black-lily-gaming"
+        ]
+      }
+    }
   }
 }

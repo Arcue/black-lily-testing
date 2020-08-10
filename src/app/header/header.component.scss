@@ -25,7 +25,11 @@ h1 a {
   border-top-color: indigo;
 }
 
-.dropbtn:hover, .dropbtn:focus {background-color: indigo;}
+.dropbtn:hover {background-color: indigo;}
+.dropbtn:focus {
+  background-color: indigo;
+  outline: 1px solid lavender;
+}
 
 .dropdown {position:relative; display: inline-block;}
 .dropdown-parent {

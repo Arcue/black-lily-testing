@@ -117,6 +117,10 @@
               "devServerTarget": "Black-Lily-Gaming:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "@angular/fire:deploy",
+          "options": {}
         }
       }
     }
