@@ -3,3 +3,4 @@ node_modules
 src/assets
 dist
 .firebase
+.vscode/settings.json
